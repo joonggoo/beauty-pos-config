@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T04:00:00Z",
+  "generated_at": "2026-04-28T04:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.4",
-    "latest_version_code": 314,
+    "latest_version": "2.10.5",
+    "latest_version_code": 315,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.4/beauty-pos-2.10.4.apk",
-    "release_notes": "v2.10.4 — Emergency dialog overhaul (category tree, all products, qty badges) + new order notifications (Alert + Vibration + Haptics)."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.5/beauty-pos-2.10.5.apk",
+    "release_notes": "v2.10.5 — UI cleanup: duplicate status badges removed, workflow buttons (Confirm/Produce/Deliver) moved to header right side as compact pills."
   }
 }
