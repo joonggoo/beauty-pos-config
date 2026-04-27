@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T00:00:00Z",
+  "generated_at": "2026-04-28T01:20:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.9.34",
-    "latest_version_code": 301,
+    "latest_version": "2.10.0",
+    "latest_version_code": 310,
     "force_update": false,
-    "apk_url": "https://ecomsupports.com/bsc/apk/beauty-pos-2.9.34.apk?v=301",
-    "release_notes": "Critical security update: SSL certificate pinning refresh."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.0/beauty-pos-2.10.0.apk",
+    "release_notes": "v2.10.0 — manifest-driven update channel (Option B-Pragmatic). APK now hosted on GitHub Releases for SSL-block resilience. Certificate renewals will not require app updates anymore."
   }
 }
