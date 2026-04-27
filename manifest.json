@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T01:20:00Z",
+  "generated_at": "2026-04-28T02:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.0",
-    "latest_version_code": 310,
+    "latest_version": "2.10.1",
+    "latest_version_code": 311,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.0/beauty-pos-2.10.0.apk",
-    "release_notes": "v2.10.0 — manifest-driven update channel (Option B-Pragmatic). APK now hosted on GitHub Releases for SSL-block resilience. Certificate renewals will not require app updates anymore."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.1/beauty-pos-2.10.1.apk",
+    "release_notes": "v2.10.1 — Pre-login auto-update check. useAutoUpdate moved to RootNavigator so updates trigger before login. Last safety net against SSL-induced login outages."
   }
 }
