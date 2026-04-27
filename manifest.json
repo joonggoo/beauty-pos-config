@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-04-28T00:00:00Z",
+  "domain": "ecomsupports.com",
+  "ssl_pins": [
+    {
+      "tier": "primary",
+      "type": "intermediate_ca",
+      "subject": "Go Daddy Secure Certificate Authority - G2",
+      "expires": "2031-05-03",
+      "pin": "8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+    },
+    {
+      "tier": "safety_net",
+      "type": "root_ca",
+      "subject": "Go Daddy Root Certificate Authority - G2",
+      "expires": "2031-05-30",
+      "pin": "Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+    },
+    {
+      "tier": "precision",
+      "type": "leaf",
+      "subject": "ecomsupports.com",
+      "expires": "2026-11-02",
+      "pin": "j+Rp4T+gbHdRNt9xfGCJUwccOp54jIiq0SCducDELk4="
+    }
+  ],
+  "app": {
+    "min_version": "2.9.34",
+    "min_version_code": 301,
+    "latest_version": "2.9.34",
+    "latest_version_code": 301,
+    "force_update": false,
+    "apk_url": "https://ecomsupports.com/bsc/apk/beauty-pos-2.9.34.apk?v=301",
+    "release_notes": "Critical security update: SSL certificate pinning refresh."
+  }
+}
