@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T05:30:00Z",
+  "generated_at": "2026-04-28T06:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.7",
-    "latest_version_code": 317,
+    "latest_version": "2.10.8",
+    "latest_version_code": 318,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.7/beauty-pos-2.10.7.apk",
-    "release_notes": "v2.10.7 — Settings save fix (INT casting) + inactivity timeout 10m → 8h + web session 24h."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.8/beauty-pos-2.10.8.apk",
+    "release_notes": "v2.10.8 — Per-product produced_qty entry + auto-completed transition + Settings parity + Emergency web parity + cutoff unification + self-heal lock-file gate."
   }
 }
