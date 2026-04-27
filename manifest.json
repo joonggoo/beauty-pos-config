@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T05:00:00Z",
+  "generated_at": "2026-04-28T05:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.6",
-    "latest_version_code": 316,
+    "latest_version": "2.10.7",
+    "latest_version_code": 317,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.6/beauty-pos-2.10.6.apk",
-    "release_notes": "v2.10.6 — Optional material-dispatch dependency for production status. Setting added to producer app + web."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.7/beauty-pos-2.10.7.apk",
+    "release_notes": "v2.10.7 — Settings save fix (INT casting) + inactivity timeout 10m → 8h + web session 24h."
   }
 }
