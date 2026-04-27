@@ -1,0 +1,72 @@
+name: Update SSL Pin Manifest
+
+on:
+  schedule:
+    # daily at 00:00 UTC (09:00 KST)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # manual trigger
+
+permissions:
+  contents: write  # required for commit/push
+
+concurrency:
+  group: update-manifest
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y openssl jq python3
+          openssl version
+          jq --version
+
+      - name: Run update-manifest script
+        run: |
+          chmod +x ./scripts/update-manifest.sh
+          ./scripts/update-manifest.sh
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -z "$(git status --porcelain manifest.json)" ]]; then
+            echo "::notice::No changes to manifest.json"
+            exit 0
+          fi
+
+          echo "::warning::manifest.json changed — committing"
+          git diff manifest.json
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+
+          # Build commit message with pin summary (safe: jq output from our own script-generated JSON)
+          {
+            echo "auto: update SSL pins from ecomsupports.com"
+            echo ""
+            jq -r '.ssl_pins[] | "  [\(.tier)/\(.type)] \(.subject) -> \(.pin)"' manifest.json
+            echo ""
+            echo "[skip ci]"
+          } > /tmp/commit-msg.txt
+
+          git commit -F /tmp/commit-msg.txt
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Manifest Status"
+            echo '```json'
+            jq . manifest.json
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
