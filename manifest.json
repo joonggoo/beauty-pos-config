@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-29T00:30:00Z",
+  "generated_at": "2026-04-29T01:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.11.1",
-    "latest_version_code": 324,
+    "latest_version": "2.12.0",
+    "latest_version_code": 325,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.11.1/beauty-pos-2.11.1.apk",
-    "release_notes": "v2.11.1 — Admin Settings entry in More menu + STAFF delivery worker dashboard guard (auto-redirect to Delivery)."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.0/beauty-pos-2.12.0.apk",
+    "release_notes": "v2.12.0 — Menu-level precision RBAC: user×shop×service matrix, 62 menu keys, 14 bundles, multi-shop accordion UI, transactional batch save."
   }
 }
