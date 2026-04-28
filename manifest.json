@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T13:00:00Z",
+  "generated_at": "2026-04-28T13:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.11",
-    "latest_version_code": 321,
+    "latest_version": "2.10.12",
+    "latest_version_code": 322,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.11/beauty-pos-2.10.11.apk",
-    "release_notes": "v2.10.11 — Settings menu cleanup (Production Settings moved to Support row) + Clients dialog keyboard hotfix."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.12/beauty-pos-2.10.12.apk",
+    "release_notes": "v2.10.12 — Cutoff Time HH:mm normalization + removed unused Max Order Days field."
   }
 }
