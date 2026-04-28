@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-29T03:00:00Z",
+  "generated_at": "2026-04-29T05:00:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.2",
-    "latest_version_code": 327,
+    "latest_version": "2.12.3",
+    "latest_version_code": 328,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.2/beauty-pos-2.12.2.apk",
-    "release_notes": "v2.12.2 — App-side menu-key guards (canMenu) + landing tile/category hide + dashboard card guards."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.3/beauty-pos-2.12.3.apk",
+    "release_notes": "v2.12.3 — BEAUTY/HRM landing tiles permMenuKey + 30min me.php ping (rbac_revision auto-relogin)."
   }
 }
