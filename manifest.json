@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-29T06:00:00Z",
+  "generated_at": "2026-04-29T07:00:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.4",
-    "latest_version_code": 329,
+    "latest_version": "2.12.5",
+    "latest_version_code": 330,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.4/beauty-pos-2.12.4.apk",
-    "release_notes": "v2.12.4 — Multi-shop permission isolation: shops[].permissions per-shop + selectedShop-based canMenu."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.5/beauty-pos-2.12.5.apk",
+    "release_notes": "v2.12.5 — Dashboard fallback removed (precise menu-key match) + mobile API guard menu-key compat."
   }
 }
