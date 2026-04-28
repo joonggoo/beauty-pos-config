@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T13:30:00Z",
+  "generated_at": "2026-04-29T00:00:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.12",
-    "latest_version_code": 322,
+    "latest_version": "2.11.0",
+    "latest_version_code": 323,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.12/beauty-pos-2.10.12.apk",
-    "release_notes": "v2.10.12 — Cutoff Time HH:mm normalization + removed unused Max Order Days field."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.11.0/beauty-pos-2.11.0.apk",
+    "release_notes": "v2.11.0 — PRODUCTION RBAC: factory/delivery/admin/analytics/view roles + presets + screen-level guards."
   }
 }
