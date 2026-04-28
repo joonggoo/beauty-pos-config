@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-28T07:00:00Z",
+  "generated_at": "2026-04-28T07:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.10.9",
-    "latest_version_code": 319,
+    "latest_version": "2.10.10",
+    "latest_version_code": 320,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.9/beauty-pos-2.10.9.apk",
-    "release_notes": "v2.10.9 — Production status polish: right-aligned input + Done button + number vertical centering + category filter chips."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.10.10/beauty-pos-2.10.10.apk",
+    "release_notes": "v2.10.10 — Done fix (no auto-save) + Status card compact + Production rate KPI + More>Settings>Preference + Incomplete filter."
   }
 }
