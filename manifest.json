@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-29T08:00:00Z",
+  "generated_at": "2026-04-29T08:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.9",
-    "latest_version_code": 332,
+    "latest_version": "2.12.10",
+    "latest_version_code": 333,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.9/beauty-pos-2.12.9.apk",
-    "release_notes": "v2.12.9 — Final integration: 19 mobile APIs require fix + system.* whitelist + rbac_revision consistency."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.10/beauty-pos-2.12.10.apk",
+    "release_notes": "v2.12.10 — Tablet landscape responsive ModuleGrid + header button hitSlop expanded."
   }
 }
