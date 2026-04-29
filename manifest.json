@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-30T07:30:00Z",
+  "generated_at": "2026-04-30T08:00:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.13",
-    "latest_version_code": 336,
+    "latest_version": "2.12.14",
+    "latest_version_code": 337,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.13/beauty-pos-2.12.13.apk",
-    "release_notes": "v2.12.13 — Multi-shop permission leakage fix (ShopSwitcher gating + login.php user_shops leftover safeguard)."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.14/beauty-pos-2.12.14.apk",
+    "release_notes": "v2.12.14 — Permission cleanup + debug endpoint removal (security) + landing UI polish."
   }
 }
