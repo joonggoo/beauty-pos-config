@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-30T02:00:00Z",
+  "generated_at": "2026-04-30T07:30:00Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.12",
-    "latest_version_code": 335,
+    "latest_version": "2.12.13",
+    "latest_version_code": 336,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.12/beauty-pos-2.12.12.apk",
-    "release_notes": "v2.12.12 — Invoice policy 3 integrated: qty-based + invoice-locked orders + multi-date bulk."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.13/beauty-pos-2.12.13.apk",
+    "release_notes": "v2.12.13 — Multi-shop permission leakage fix (ShopSwitcher gating + login.php user_shops leftover safeguard)."
   }
 }
