@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-28T08:16:21Z",
+  "generated_at": "2026-07-28T09:09:55Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.17",
-    "latest_version_code": 340,
+    "latest_version": "2.12.18",
+    "latest_version_code": 341,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.17/beauty-pos-2.12.17.apk",
-    "release_notes": "v2.12.17 — 랜딩 KPI 자동갱신, 배달 CTA 날짜 이동, 주문 금액 Subtotal/Tax/Total 표기, 로그인 접속자격 선택(Producer/Orderer), 비밀번호 표시 토글"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.18/beauty-pos-2.12.18.apk",
+    "release_notes": "v2.12.18 — 로그인 공급자 셀렉트박스, 선주문 날짜 지정 개선, 여러 공급날짜 각각 등록, 긴급주문 수정/취소, 선주문 기간 설정, 재고 미사용 자재 표시 개선"
   }
 }
