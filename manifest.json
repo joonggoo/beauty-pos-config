@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-30T08:30:00Z",
+  "generated_at": "2026-07-28T04:43:32Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.15",
-    "latest_version_code": 338,
+    "latest_version": "2.12.16",
+    "latest_version_code": 339,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.15/beauty-pos-2.12.15.apk",
-    "release_notes": "v2.12.15 — Shop switcher data refresh fix (queryKey + invalidateQueries safety)."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.16/beauty-pos-2.12.16.apk",
+    "release_notes": "v2.12.16 — Production landing CTA routing fix + password visibility toggle."
   }
 }
