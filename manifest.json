@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-28T09:09:55Z",
+  "generated_at": "2026-07-28T11:26:23Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.18",
-    "latest_version_code": 341,
+    "latest_version": "2.12.19",
+    "latest_version_code": 342,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.18/beauty-pos-2.12.18.apk",
-    "release_notes": "v2.12.18 — 로그인 공급자 셀렉트박스, 선주문 날짜 지정 개선, 여러 공급날짜 각각 등록, 긴급주문 수정/취소, 선주문 기간 설정, 재고 미사용 자재 표시 개선"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.19/beauty-pos-2.12.19.apk",
+    "release_notes": "v2.12.19 — 날짜 하루 밀림(타임존) 수정: 선주문 날짜 지정 정상화"
   }
 }
