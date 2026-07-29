@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T03:53:55Z",
+  "generated_at": "2026-07-29T04:44:22Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.22",
-    "latest_version_code": 345,
+    "latest_version": "2.12.23",
+    "latest_version_code": 346,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.22/beauty-pos-2.12.22.apk",
-    "release_notes": "v2.12.22 — draft 주문의 납품일 수정(이동) 지원, 이동 시 과거·중복 날짜 차단"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.23/beauty-pos-2.12.23.apk",
+    "release_notes": "v2.12.23 — 납품일 변경(이동)을 draft 에만 허용"
   }
 }
