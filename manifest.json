@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T02:01:11Z",
+  "generated_at": "2026-07-29T02:54:10Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.20",
-    "latest_version_code": 343,
+    "latest_version": "2.12.21",
+    "latest_version_code": 344,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.20/beauty-pos-2.12.20.apk",
-    "release_notes": "v2.12.20 — 선주문 날짜 되돌림 근절(타임존 불일치·조용한 실패 제거), 주문자별 선주문 허용 스위치, 초과생산분 표시"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.21/beauty-pos-2.12.21.apk",
+    "release_notes": "v2.12.21 — 납품일 잠금을 주문자 본인 설정으로 이관(주문 화면 잠금 토글)"
   }
 }
