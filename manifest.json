@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T13:21:25Z",
+  "generated_at": "2026-07-29T13:59:01Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.25",
-    "latest_version_code": 348,
+    "latest_version": "2.12.26",
+    "latest_version_code": 349,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.25/beauty-pos-2.12.25.apk",
-    "release_notes": "로그인 화면 개선(공급자 고유번호), 다국어 표시 오류 수정, 결제 안정성 강화"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.26/beauty-pos-2.12.26.apk",
+    "release_notes": "얼굴 출퇴근 보안 강화, 안정성 개선"
   }
 }
