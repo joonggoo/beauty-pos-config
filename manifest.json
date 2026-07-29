@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T05:15:41Z",
+  "generated_at": "2026-07-29T13:21:25Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.24",
-    "latest_version_code": 347,
+    "latest_version": "2.12.25",
+    "latest_version_code": 348,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.24/beauty-pos-2.12.24.apk",
-    "release_notes": "v2.12.24 — 주간 초과 생산 현황 화면, i18n 보간 노출 수정"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.25/beauty-pos-2.12.25.apk",
+    "release_notes": "로그인 화면 개선(공급자 고유번호), 다국어 표시 오류 수정, 결제 안정성 강화"
   }
 }
