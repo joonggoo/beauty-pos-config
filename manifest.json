@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T04:44:22Z",
+  "generated_at": "2026-07-29T05:15:41Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 301,
-    "latest_version": "2.12.23",
-    "latest_version_code": 346,
+    "latest_version": "2.12.24",
+    "latest_version_code": 347,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.23/beauty-pos-2.12.23.apk",
-    "release_notes": "v2.12.23 — 납품일 변경(이동)을 draft 에만 허용"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.24/beauty-pos-2.12.24.apk",
+    "release_notes": "v2.12.24 — 주간 초과 생산 현황 화면, i18n 보간 노출 수정"
   }
 }
