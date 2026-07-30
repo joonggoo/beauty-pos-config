@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T02:03:27Z",
+  "generated_at": "2026-07-30T02:24:14Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.28",
-    "latest_version_code": 351,
+    "latest_version": "2.12.29",
+    "latest_version_code": 352,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.28/beauty-pos-2.12.28.apk",
-    "release_notes": "업데이트 진행률·단계 표시 · 생산완료 한 번에 처리(DONE=저장) · 대/중 카테고리 필터 · 웹 생산현황 큰 글씨"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.29/beauty-pos-2.12.29.apk",
+    "release_notes": "생산현황 목록을 대분류/중분류로 묶어서 표시(묶음별 소계 포함) · 웹도 동일 적용 + 중분류 필터"
   }
 }
