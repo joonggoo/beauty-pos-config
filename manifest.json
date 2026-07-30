@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T02:47:15Z",
+  "generated_at": "2026-07-30T13:25:49Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.30",
-    "latest_version_code": 353,
+    "latest_version": "2.12.31",
+    "latest_version_code": 354,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.30/beauty-pos-2.12.30.apk",
-    "release_notes": "생산현황 제품명 검색 추가 · 대/중 분류 필터 상시 표시 · 대-중-제품명 3단으로 찾기"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.31/beauty-pos-2.12.31.apk",
+    "release_notes": "중분류 분류 정상화(서버 응답 누락 수정) · 검색+액션/대분류+중분류를 각각 한 줄로 압축해 제품 목록 공간 확대"
   }
 }
