@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T13:25:49Z",
+  "generated_at": "2026-07-30T14:43:36Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.31",
-    "latest_version_code": 354,
+    "latest_version": "2.12.32",
+    "latest_version_code": 355,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.31/beauty-pos-2.12.31.apk",
-    "release_notes": "중분류 분류 정상화(서버 응답 누락 수정) · 검색+액션/대분류+중분류를 각각 한 줄로 압축해 제품 목록 공간 확대"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.32/beauty-pos-2.12.32.apk",
+    "release_notes": "화면 회전 지원(태블릿 회전잠금 설정 따름) · 생산현황 헤더 공간 대폭 압축 · 대분류/중분류 영역 드래그 조절 · 생산완료 주문이 다른 탭에서 사라지던 문제 수정"
   }
 }
