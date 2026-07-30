@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T14:43:36Z",
+  "generated_at": "2026-07-30T15:24:51Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.32",
-    "latest_version_code": 355,
+    "latest_version": "2.12.33",
+    "latest_version_code": 356,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.32/beauty-pos-2.12.32.apk",
-    "release_notes": "화면 회전 지원(태블릿 회전잠금 설정 따름) · 생산현황 헤더 공간 대폭 압축 · 대분류/중분류 영역 드래그 조절 · 생산완료 주문이 다른 탭에서 사라지던 문제 수정"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.33/beauty-pos-2.12.33.apk",
+    "release_notes": "Production 탭이 생산현황으로 바로 열림 · 주문자 목록 높이 확대 · 현장 가독성 폰트 하한 적용 · 필터 레이블 정리"
   }
 }
