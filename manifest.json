@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T13:59:01Z",
+  "generated_at": "2026-07-30T01:09:38Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -27,11 +27,11 @@
   ],
   "app": {
     "min_version": "2.9.34",
-    "min_version_code": 301,
-    "latest_version": "2.12.26",
-    "latest_version_code": 349,
+    "min_version_code": 350,
+    "latest_version": "2.12.27",
+    "latest_version_code": 350,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.26/beauty-pos-2.12.26.apk",
-    "release_notes": "얼굴 출퇴근 보안 강화, 안정성 개선"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.27/beauty-pos-2.12.27.apk",
+    "release_notes": "주문자 로그인에 공급자 고유번호(8자리) 필수 · 제출한 주문의 납품일 수정 가능 · 생산현황 일괄등록 + 큰 글씨"
   }
 }
