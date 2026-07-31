@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T00:09:26Z",
+  "generated_at": "2026-07-31T00:19:45Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.34",
-    "latest_version_code": 357,
+    "latest_version": "2.12.35",
+    "latest_version_code": 358,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.34/beauty-pos-2.12.34.apk",
-    "release_notes": "제품목록 정렬(이름/단가, 오름내림 전환) · 대분류 클릭 시 중분류 필터 · 수정창 하단 버튼이 시스템바에 가리던 문제 해결"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.35/beauty-pos-2.12.35.apk",
+    "release_notes": "모달 하단 버튼이 시스템 내비게이션 바에 가리던 문제를 전 화면(13개)에서 해결"
   }
 }
