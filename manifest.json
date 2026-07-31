@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T09:48:22Z",
+  "generated_at": "2026-07-31T10:01:19Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.42",
-    "latest_version_code": 365,
+    "latest_version": "2.12.43",
+    "latest_version_code": 366,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.42/beauty-pos-2.12.42.apk",
-    "release_notes": "Gmail 이메일 설정 추가(앱에서 바로 설정·테스트 발송), 배송 화면에서 생산완료 주문이 보이지 않던 문제 수정, 업데이트 알림이 늦게 뜨던 문제 개선"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.43/beauty-pos-2.12.43.apk",
+    "release_notes": "납품 서명 화면 개선(전체화면 전환, 서명 공간 확대, 키보드 가림 해결), Gmail 이메일 설정 추가, 업데이트 알림 주기 단축"
   }
 }
