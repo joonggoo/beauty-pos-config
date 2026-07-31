@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T11:42:46Z",
+  "generated_at": "2026-07-31T15:28:12Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.47",
-    "latest_version_code": 370,
+    "latest_version": "2.12.48",
+    "latest_version_code": 371,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.47/beauty-pos-2.12.47.apk",
-    "release_notes": "세금 설정이 '없음'인데도 세금이 부과되던 계산 오류 수정, 주문자별 화면에서 긴급주문이 있으면 원래 주문이 누락되던 문제 수정, 인보이스 목록에서 주문자명이 잘리던 문제 개선"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.48/beauty-pos-2.12.48.apk",
+    "release_notes": "주문액(정가)과 실청구액(할인 반영)을 함께 표시합니다. 매출 통계가 실제 청구 기준으로 바로잡혔습니다."
   }
 }
