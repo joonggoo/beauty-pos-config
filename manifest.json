@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T17:34:37Z",
+  "generated_at": "2026-07-31T17:56:38Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.51",
-    "latest_version_code": 374,
+    "latest_version": "2.12.52",
+    "latest_version_code": 375,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.51/beauty-pos-2.12.51.apk",
-    "release_notes": "로그인이 간단해졌습니다. 사업자 고유번호·계정ID·비밀번호만 입력하시면 됩니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.52/beauty-pos-2.12.52.apk",
+    "release_notes": "화면 글자와 간격을 정돈했습니다. 작아서 안 보이던 아이콘과 라벨이 읽기 편해졌습니다."
   }
 }
