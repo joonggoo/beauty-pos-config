@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T00:35:30Z",
+  "generated_at": "2026-07-31T01:51:04Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.36",
-    "latest_version_code": 359,
+    "latest_version": "2.12.37",
+    "latest_version_code": 360,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.36/beauty-pos-2.12.36.apk",
-    "release_notes": "제품정보 수정 시 신규 제품으로 등록되던 심각한 오류 수정"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.37/beauty-pos-2.12.37.apk",
+    "release_notes": "제품 중복 경고 배너(표기 차이·오타까지 검출) · 가격 변동 이력(누가 언제 얼마에서 얼마로)"
   }
 }
