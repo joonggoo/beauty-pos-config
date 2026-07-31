@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T08:31:33Z",
+  "generated_at": "2026-07-31T09:48:22Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.40",
-    "latest_version_code": 363,
+    "latest_version": "2.12.42",
+    "latest_version_code": 365,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.40/beauty-pos-2.12.40.apk",
-    "release_notes": "생산현황·고객목록 등 현장 화면 가독성 개선(글자 크기 하향 하한 적용), 화면 회전 시 고객 이름이 잘리던 문제 수정"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.42/beauty-pos-2.12.42.apk",
+    "release_notes": "Gmail 이메일 설정 추가(앱에서 바로 설정·테스트 발송), 배송 화면에서 생산완료 주문이 보이지 않던 문제 수정, 업데이트 알림이 늦게 뜨던 문제 개선"
   }
 }
