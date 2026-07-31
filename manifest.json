@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T02:51:29Z",
+  "generated_at": "2026-07-31T06:05:55Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.38",
-    "latest_version_code": 361,
+    "latest_version": "2.12.39",
+    "latest_version_code": 362,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.38/beauty-pos-2.12.38.apk",
-    "release_notes": "개별제품 단가 일관성 검사 · 제품 중복 경고 · 가격 변동 이력"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.39/beauty-pos-2.12.39.apk",
+    "release_notes": "앱 푸시 알림 도입 — 주문 접수·변경, 클레임 접수를 앱이 꺼져 있어도 즉시 알립니다. 알림을 받으려면 최초 실행 시 알림 권한을 허용해 주세요."
   }
 }
