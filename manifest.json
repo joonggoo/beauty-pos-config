@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T09:35:55Z",
+  "generated_at": "2026-08-01T10:52:20Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.67",
-    "latest_version_code": 390,
+    "latest_version": "2.12.68",
+    "latest_version_code": 391,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.67/beauty-pos-2.12.67.apk",
-    "release_notes": "랜딩 압축 — 모듈 카드 가로 배치 · Weather 3줄 · 스크롤 없이 전체 표시"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.68/beauty-pos-2.12.68.apk",
+    "release_notes": "타일-섹션 여백 확보 · 앱↔웹 갭 보완(무결성/추이/계정관리)"
   }
 }
