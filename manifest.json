@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T08:11:38Z",
+  "generated_at": "2026-08-01T08:30:24Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.64",
-    "latest_version_code": 387,
+    "latest_version": "2.12.65",
+    "latest_version_code": 388,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.64/beauty-pos-2.12.64.apk",
-    "release_notes": "미청구 탭 거래처 필터 동작 + 약칭(short_name) 필수·중복 검증"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.65/beauty-pos-2.12.65.apk",
+    "release_notes": "잔액 요약 재디자인 — 한 화면 5.3개 → 28.7개"
   }
 }
