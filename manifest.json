@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T01:18:03Z",
+  "generated_at": "2026-08-01T01:41:04Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.54",
-    "latest_version_code": 377,
+    "latest_version": "2.12.55",
+    "latest_version_code": 378,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.54/beauty-pos-2.12.54.apk",
-    "release_notes": "납품 검수자·서명·시각을 Delivery와 Invoice에서 함께 봅니다. 글자를 키우고 월 이동 버튼을 크게 했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.55/beauty-pos-2.12.55.apk",
+    "release_notes": "세로모드 화면 배치를 바로잡고, 분석 화면 차트 로딩 상태를 표시합니다."
   }
 }
