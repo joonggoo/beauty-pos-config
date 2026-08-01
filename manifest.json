@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T03:16:08Z",
+  "generated_at": "2026-08-01T03:35:23Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.60",
-    "latest_version_code": 383,
+    "latest_version": "2.12.61",
+    "latest_version_code": 384,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.60/beauty-pos-2.12.60.apk",
-    "release_notes": "청구 안 된 납품을 랜딩에서 알리고, 누르면 해당 건만 모아 보여줍니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.61/beauty-pos-2.12.61.apk",
+    "release_notes": "상세 화면에서 좌우로 밀면 이전/다음 항목으로 넘어갑니다."
   }
 }
