@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T02:31:18Z",
+  "generated_at": "2026-08-01T02:48:10Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.57",
-    "latest_version_code": 380,
+    "latest_version": "2.12.58",
+    "latest_version_code": 381,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.57/beauty-pos-2.12.57.apk",
-    "release_notes": "제품별 주문 추이를 목록에서 바로 보고, 눌러서 최근 1년 흐름을 확인할 수 있습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.58/beauty-pos-2.12.58.apk",
+    "release_notes": "납품 서명 그림이 정상 표시됩니다."
   }
 }
