@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T08:02:47Z",
+  "generated_at": "2026-08-02T14:15:10Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.77",
-    "latest_version_code": 400,
+    "latest_version": "2.12.78",
+    "latest_version_code": 401,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.77/beauty-pos-2.12.77.apk",
-    "release_notes": "설정 정리: 안 쓰는 서비스 설정 숨김 · 콘솔 가이드 운영자 전용"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.78/beauty-pos-2.12.78.apk",
+    "release_notes": "날짜·기간 화면 6곳에 좌우 스와이프 추가 — 생산현황 분석, 주문 분석·제품추이, 뷰티 일일운영·분석, 감사로그. 화면 어디서든 옆으로 밀면 날짜·기간이 바뀝니다(작은 화살표를 정확히 누르지 않아도 됩니다)."
   }
 }
