@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T16:44:03Z",
+  "generated_at": "2026-08-02T23:23:01Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.80",
-    "latest_version_code": 403,
+    "latest_version": "2.12.81",
+    "latest_version_code": 404,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.80/beauty-pos-2.12.80.apk",
-    "release_notes": "얼굴 등록 기능 복구 (모델을 서버에서 자동으로 받아옵니다) · Operations 드래그 시 놓을 자리를 카드 크기 상자로 표시 · 새 예약 화면의 시간표에 고객명 표시(중복예약 방지) · 서비스 탭 버튼 모양 정리 · 시간·금액이 잘리던 8곳 수정"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.81/beauty-pos-2.12.81.apk",
+    "release_notes": "얼굴 템플릿에 등록 사진 표시 — 잘못 등록된 템플릿을 눈으로 확인할 수 있습니다(새로 등록한 것부터). 등록 중에는 카메라가 화면 전체로 커져 시선 유도가 정확해집니다. 등록화면 우측 목록이 잘리던 문제 수정."
   }
 }
