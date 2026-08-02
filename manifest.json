@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T03:30:43Z",
+  "generated_at": "2026-08-02T07:28:15Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.75",
-    "latest_version_code": 398,
+    "latest_version": "2.12.76",
+    "latest_version_code": 399,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.75/beauty-pos-2.12.75.apk",
-    "release_notes": "글자 크기 설정(5단계, 기본 115%) · 구글 이메일(Gmail API) 연결"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.76/beauty-pos-2.12.76.apk",
+    "release_notes": "메일 설정 정리: From Email 제거 · OAuth 자격증명은 운영자만"
   }
 }
