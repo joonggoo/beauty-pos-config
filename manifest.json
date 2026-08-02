@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T07:28:15Z",
+  "generated_at": "2026-08-02T08:02:47Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.76",
-    "latest_version_code": 399,
+    "latest_version": "2.12.77",
+    "latest_version_code": 400,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.76/beauty-pos-2.12.76.apk",
-    "release_notes": "메일 설정 정리: From Email 제거 · OAuth 자격증명은 운영자만"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.77/beauty-pos-2.12.77.apk",
+    "release_notes": "설정 정리: 안 쓰는 서비스 설정 숨김 · 콘솔 가이드 운영자 전용"
   }
 }
