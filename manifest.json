@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T14:24:43Z",
+  "generated_at": "2026-08-02T16:44:03Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.79",
-    "latest_version_code": 402,
+    "latest_version": "2.12.80",
+    "latest_version_code": 403,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.79/beauty-pos-2.12.79.apk",
-    "release_notes": "앱 용량 절반으로 축소 (208MB → 100MB). 에뮬레이터 전용 코드를 제거해 다운로드·설치가 훨씬 빨라집니다. 기능 변화는 없습니다. 함께 적용: 날짜·기간 화면 6곳 좌우 스와이프."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.80/beauty-pos-2.12.80.apk",
+    "release_notes": "얼굴 등록 기능 복구 (모델을 서버에서 자동으로 받아옵니다) · Operations 드래그 시 놓을 자리를 카드 크기 상자로 표시 · 새 예약 화면의 시간표에 고객명 표시(중복예약 방지) · 서비스 탭 버튼 모양 정리 · 시간·금액이 잘리던 8곳 수정"
   }
 }
