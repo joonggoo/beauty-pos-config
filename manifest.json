@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T23:50:10Z",
+  "generated_at": "2026-08-02T23:59:03Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.82",
-    "latest_version_code": 405,
+    "latest_version": "2.12.83",
+    "latest_version_code": 406,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.82/beauty-pos-2.12.82.apk",
-    "release_notes": "템플릿 관리 화면에도 등록 사진이 표시됩니다. 얼굴 등록 시 달걀 모양 점선 안내가 나와 같은 위치·크기로 촬영할 수 있습니다(인식률 향상)."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.83/beauty-pos-2.12.83.apk",
+    "release_notes": "템플릿 관리 화면이 그리드로 바뀌어 등록된 얼굴을 크게(3.4배) 스크롤 없이 확인할 수 있습니다."
   }
 }
