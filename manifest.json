@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T07:10:01Z",
+  "generated_at": "2026-08-03T07:26:59Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.96",
-    "latest_version_code": 419,
+    "latest_version": "2.12.97",
+    "latest_version_code": 420,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.96/beauty-pos-2.12.96.apk",
-    "release_notes": "서비스 관리 화면의 닫기를 다른 화면과 같은 왼쪽 ← 화살표로 통일했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.97/beauty-pos-2.12.97.apk",
+    "release_notes": "특이사항(VoC) 입력 시 키보드가 가리던 문제를 수정했습니다."
   }
 }
