@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T06:13:48Z",
+  "generated_at": "2026-08-03T06:30:50Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.91",
-    "latest_version_code": 414,
+    "latest_version": "2.12.92",
+    "latest_version_code": 415,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.91/beauty-pos-2.12.91.apk",
-    "release_notes": "서비스 관리 화면: 표 머리글과 데이터 정렬을 맞추고, 컬럼 폭을 내용에 맞게 재배분했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.92/beauty-pos-2.12.92.apk",
+    "release_notes": "서비스 관리: 저장 버튼을 아이콘으로, 표 머리글 줄바꿈 방지, 컬럼 폭 조정."
   }
 }
