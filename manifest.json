@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T08:39:39Z",
+  "generated_at": "2026-08-03T09:16:35Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.99",
-    "latest_version_code": 424,
+    "latest_version": "2.13.1",
+    "latest_version_code": 426,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.99/beauty-pos-2.12.99.apk",
-    "release_notes": "키보드가 입력창을 가리는 문제를 근본 원인부터 고쳤습니다. 모달 42개 전부에서 키보드가 올라와도 입력창과 저장 버튼이 보입니다. 모달 닫기 버튼(X) 위치도 통일했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.1/beauty-pos-2.13.1.apk",
+    "release_notes": "완료된 예약은 삭제할 수 없도록 막았습니다. 아직 오지 않은 예약은 완료 처리할 수 없고, 마감된 날짜는 완료 취소가 불가합니다. 선결제는 그대로 가능합니다."
   }
 }
