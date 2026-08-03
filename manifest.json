@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T05:31:42Z",
+  "generated_at": "2026-08-03T05:38:34Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.88",
-    "latest_version_code": 411,
+    "latest_version": "2.12.89",
+    "latest_version_code": 412,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.88/beauty-pos-2.12.88.apk",
-    "release_notes": "서비스 관리 화면: 버튼 크기를 통일하고, 검색과 카테고리 필터를 헤더 우측에 나란히 배치했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.89/beauty-pos-2.12.89.apk",
+    "release_notes": "서비스 관리 화면: 좌우 헤더 높이를 맞추고, 표 컬럼 폭을 고르게 재분배했습니다."
   }
 }
