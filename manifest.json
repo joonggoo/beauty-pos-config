@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T09:16:35Z",
+  "generated_at": "2026-08-03T09:34:09Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.1",
-    "latest_version_code": 426,
+    "latest_version": "2.13.2",
+    "latest_version_code": 427,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.1/beauty-pos-2.13.1.apk",
-    "release_notes": "완료된 예약은 삭제할 수 없도록 막았습니다. 아직 오지 않은 예약은 완료 처리할 수 없고, 마감된 날짜는 완료 취소가 불가합니다. 선결제는 그대로 가능합니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.2/beauty-pos-2.13.2.apk",
+    "release_notes": "예약 그리드를 다듬었습니다. 드래그할 때 놓일 시각이 손가락에 가리지 않고, 카드가 칸을 꽉 채웁니다. 직원 이름 밑에 오늘 처리량(완료/전체)이 표시되고, 상단 아이콘은 꼭 필요한 것만 남겼습니다. 새 예약을 넣으면 달력 건수가 즉시 반영됩니다."
   }
 }
