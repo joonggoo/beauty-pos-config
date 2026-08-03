@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T08:12:11Z",
+  "generated_at": "2026-08-03T08:39:39Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.98",
-    "latest_version_code": 421,
+    "latest_version": "2.12.99",
+    "latest_version_code": 424,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.98/beauty-pos-2.12.98.apk",
-    "release_notes": "모달 42개 화면의 키보드 가림 문제를 일괄 정리했습니다. 입력창이 키보드에 가려지지 않고, 키보드가 열린 상태에서도 버튼이 한 번에 눌립니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.99/beauty-pos-2.12.99.apk",
+    "release_notes": "키보드가 입력창을 가리는 문제를 근본 원인부터 고쳤습니다. 모달 42개 전부에서 키보드가 올라와도 입력창과 저장 버튼이 보입니다. 모달 닫기 버튼(X) 위치도 통일했습니다."
   }
 }
