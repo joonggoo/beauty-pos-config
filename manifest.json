@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T00:08:06Z",
+  "generated_at": "2026-08-03T00:14:22Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.84",
-    "latest_version_code": 407,
+    "latest_version": "2.12.85",
+    "latest_version_code": 408,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.84/beauty-pos-2.12.84.apk",
-    "release_notes": "템플릿 관리 화면의 얼굴 사진 크기를 조정했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.85/beauty-pos-2.12.85.apk",
+    "release_notes": "얼굴 사진 화질을 개선했습니다(저장 해상도 2배). 템플릿 5개가 한 줄에 표시됩니다."
   }
 }
