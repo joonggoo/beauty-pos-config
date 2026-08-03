@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T23:59:03Z",
+  "generated_at": "2026-08-03T00:08:06Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.83",
-    "latest_version_code": 406,
+    "latest_version": "2.12.84",
+    "latest_version_code": 407,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.83/beauty-pos-2.12.83.apk",
-    "release_notes": "템플릿 관리 화면이 그리드로 바뀌어 등록된 얼굴을 크게(3.4배) 스크롤 없이 확인할 수 있습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.84/beauty-pos-2.12.84.apk",
+    "release_notes": "템플릿 관리 화면의 얼굴 사진 크기를 조정했습니다."
   }
 }
