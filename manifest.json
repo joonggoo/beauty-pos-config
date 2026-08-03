@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T07:26:59Z",
+  "generated_at": "2026-08-03T08:12:11Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.97",
-    "latest_version_code": 420,
+    "latest_version": "2.12.98",
+    "latest_version_code": 421,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.97/beauty-pos-2.12.97.apk",
-    "release_notes": "특이사항(VoC) 입력 시 키보드가 가리던 문제를 수정했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.98/beauty-pos-2.12.98.apk",
+    "release_notes": "모달 42개 화면의 키보드 가림 문제를 일괄 정리했습니다. 입력창이 키보드에 가려지지 않고, 키보드가 열린 상태에서도 버튼이 한 번에 눌립니다."
   }
 }
