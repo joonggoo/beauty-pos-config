@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T00:22:01Z",
+  "generated_at": "2026-08-03T05:15:33Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.86",
-    "latest_version_code": 409,
+    "latest_version": "2.12.87",
+    "latest_version_code": 410,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.86/beauty-pos-2.12.86.apk",
-    "release_notes": "템플릿 관리 화면에서 대표 사진이 배경색으로 뚜렷하게 구분됩니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.87/beauty-pos-2.12.87.apk",
+    "release_notes": "서비스 관리 화면 개선: 검색 추가, 오른쪽 잘림 수정, 담당자 선택 버튼 명확화, 자동 저장 안내."
   }
 }
