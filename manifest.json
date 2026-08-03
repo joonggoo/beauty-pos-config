@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T06:46:43Z",
+  "generated_at": "2026-08-03T07:03:21Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.12.94",
-    "latest_version_code": 417,
+    "latest_version": "2.12.95",
+    "latest_version_code": 418,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.94/beauty-pos-2.12.94.apk",
-    "release_notes": "담당자 선택 화면: 직원번호 대신 현재 업무량(건수·시간)을 표시하고, 선택 칸 크기를 통일했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.12.95/beauty-pos-2.12.95.apk",
+    "release_notes": "담당자 선택 목록이 길어도 스크롤됩니다. 서비스 관리 화면의 닫기를 다른 화면과 같은 ✕ 아이콘으로 통일했습니다."
   }
 }
