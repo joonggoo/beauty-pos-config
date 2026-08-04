@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T01:46:12Z",
+  "generated_at": "2026-08-04T09:17:20Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.5",
-    "latest_version_code": 430,
+    "latest_version": "2.13.6",
+    "latest_version_code": 431,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.5/beauty-pos-2.13.5.apk",
-    "release_notes": "예약 정보 표시 보완\n\n· 고객 상세에서 연 예약관리 화면에 날짜·서비스·담당 직원이 표시됩니다\n  (종전에는 목록에 있던 정보가 다이얼로그에서 사라졌습니다)\n· 예약관리 화면에 고객 등급이 함께 표시됩니다"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.6/beauty-pos-2.13.6.apk",
+    "release_notes": "다이얼로그 하단이 시스템 바에 가리던 문제를 고쳤습니다. 바코드 스캐너의 닫기 버튼과 얼굴 등록 안내가 화면 아래에 가려 눌리지 않던 것이 정상 동작합니다."
   }
 }
