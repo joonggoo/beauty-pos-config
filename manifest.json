@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T12:15:03Z",
+  "generated_at": "2026-08-04T01:46:12Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.4",
-    "latest_version_code": 429,
+    "latest_version": "2.13.5",
+    "latest_version_code": 430,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.4/beauty-pos-2.13.4.apk",
-    "release_notes": "예약 이동(Reschedule) 정비\n\n· 날짜를 옮겨도 담당 직원이 유지됩니다 (종전에는 배정이 지워졌습니다)\n· 고객 상세 > 예정 예약을 눌러 바로 일정 변경할 수 있습니다\n· 일정 변경 화면에서 담당 직원을 고르고, 이미 찬 시간을 볼 수 있습니다\n· 시간 선택이 샵 영업시간 기준으로 바뀌었습니다\n· 완료된 예약 · 마감된 날은 옮길 수 없도록 막고 이유를 안내합니다\n· 예약을 옮기면 달력 화면도 함께 갱신됩니다"
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.5/beauty-pos-2.13.5.apk",
+    "release_notes": "예약 정보 표시 보완\n\n· 고객 상세에서 연 예약관리 화면에 날짜·서비스·담당 직원이 표시됩니다\n  (종전에는 목록에 있던 정보가 다이얼로그에서 사라졌습니다)\n· 예약관리 화면에 고객 등급이 함께 표시됩니다"
   }
 }
