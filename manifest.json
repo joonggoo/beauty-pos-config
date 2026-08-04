@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T13:27:34Z",
+  "generated_at": "2026-08-04T13:39:02Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.10",
-    "latest_version_code": 435,
+    "latest_version": "2.13.11",
+    "latest_version_code": 436,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.10/beauty-pos-2.13.10.apk",
-    "release_notes": "다른 화면에 다녀오거나 앱을 다시 열면 화면이 스스로 새로고침됩니다. 키오스크에서 찍은 출퇴근 기록을 바로 확인할 수 있습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.11/beauty-pos-2.13.11.apk",
+    "release_notes": "출퇴근 사진이 시간과 함께 바로 갱신됩니다. 사진을 누르면 IN/OUT 시각과 요일이 함께 보이고, 직책 칸이 두 줄로 벌어지던 것도 바로잡았습니다."
   }
 }
