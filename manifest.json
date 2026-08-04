@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T14:32:47Z",
+  "generated_at": "2026-08-04T14:48:57Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.13",
-    "latest_version_code": 438,
+    "latest_version": "2.13.14",
+    "latest_version_code": 439,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.13/beauty-pos-2.13.13.apk",
-    "release_notes": "샵 설정에서 Spread Hour 적용 여부를 켜고 끌 수 있습니다. 주(state)에 따라 이 수당이 없는 곳도 있어 샵별로 정할 수 있게 했습니다. 기존과 같이 기본은 적용입니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.14/beauty-pos-2.13.14.apk",
+    "release_notes": "미용실 설정에 공급자 전용 항목(선주문 허용일, 재료출고, 세금·정산)이 섞여 보이던 것을 정리했습니다. 이제 그 샵이 실제로 쓰는 서비스의 설정만 나옵니다."
   }
 }
