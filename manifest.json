@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T10:57:27Z",
+  "generated_at": "2026-08-04T13:27:34Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.9",
-    "latest_version_code": 434,
+    "latest_version": "2.13.10",
+    "latest_version_code": 435,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.9/beauty-pos-2.13.9.apk",
-    "release_notes": "PIN 입력이 첫 글자에서 끊기던 문제를 고쳤습니다. 업체별 단가 입력창에도 같은 문제가 있어 함께 수정했습니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.10/beauty-pos-2.13.10.apk",
+    "release_notes": "다른 화면에 다녀오거나 앱을 다시 열면 화면이 스스로 새로고침됩니다. 키오스크에서 찍은 출퇴근 기록을 바로 확인할 수 있습니다."
   }
 }
