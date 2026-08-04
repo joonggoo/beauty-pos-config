@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T09:17:20Z",
+  "generated_at": "2026-08-04T10:33:13Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -28,10 +28,10 @@
   "app": {
     "min_version": "2.9.34",
     "min_version_code": 350,
-    "latest_version": "2.13.6",
-    "latest_version_code": 431,
+    "latest_version": "2.13.7",
+    "latest_version_code": 432,
     "force_update": false,
-    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.6/beauty-pos-2.13.6.apk",
-    "release_notes": "다이얼로그 하단이 시스템 바에 가리던 문제를 고쳤습니다. 바코드 스캐너의 닫기 버튼과 얼굴 등록 안내가 화면 아래에 가려 눌리지 않던 것이 정상 동작합니다."
+    "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.7/beauty-pos-2.13.7.apk",
+    "release_notes": "PIN 설정 화면을 고쳤습니다. 직원 목록이 비어 보이거나 저장할 때 'Invalid employee' 가 뜨던 문제, 그리고 안내 문구가 잘려 보이던 것이 정상화됐습니다."
   }
 }
