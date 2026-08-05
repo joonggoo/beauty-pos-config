@@ -33,5 +33,16 @@
     "force_update": false,
     "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.14/beauty-pos-2.13.14.apk",
     "release_notes": "미용실 설정에 공급자 전용 항목(선주문 허용일, 재료출고, 세금·정산)이 섞여 보이던 것을 정리했습니다. 이제 그 샵이 실제로 쓰는 서비스의 설정만 나옵니다."
+  },
+  "apps": {
+    "com.ecom.admin": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.1",
+      "latest_version_code": 2,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.1/ecom-admin-0.1.1.apk",
+      "release_notes": "First separate build of the admin app. Shops, contracts, terminals and security only."
+    }
   }
 }
