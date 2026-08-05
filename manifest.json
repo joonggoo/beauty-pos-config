@@ -43,6 +43,15 @@
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.2/ecom-admin-0.1.2.apk",
       "release_notes": "Auto-update channel verification build."
+    },
+    "com.ecom.order": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.0",
+      "latest_version_code": 1,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.0/ecom-order-0.1.0.apk",
+      "release_notes": "Separate order app. Ordering, invoices, delivery + HRM."
     }
   }
 }
