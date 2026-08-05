@@ -38,11 +38,11 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.2",
-      "latest_version_code": 3,
+      "latest_version": "0.1.7",
+      "latest_version_code": 8,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.2/ecom-admin-0.1.2.apk",
-      "release_notes": "Auto-update channel verification build."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.7/ecom-admin-0.1.7.apk",
+      "release_notes": "App icon: ECOM logo + ADMIN (same layout as kiosk)."
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
