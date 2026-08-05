@@ -52,6 +52,15 @@
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.0/ecom-order-0.1.0.apk",
       "release_notes": "Separate order app. Ordering, invoices, delivery + HRM."
+    },
+    "com.ecom.hrm": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.0",
+      "latest_version_code": 1,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.0/ecom-hrm-0.1.0.apk",
+      "release_notes": "Standalone HRM app. Attendance, payroll, timetable."
     }
   }
 }
