@@ -38,11 +38,11 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.7",
-      "latest_version_code": 8,
+      "latest_version": "0.1.8",
+      "latest_version_code": 9,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.7/ecom-admin-0.1.7.apk",
-      "release_notes": "App icon: ECOM logo + ADMIN (same layout as kiosk)."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.8/ecom-admin-0.1.8.apk",
+      "release_notes": "다른 앱 계정으로는 로그인되지 않습니다. 앱마다 쓸 수 있는 계정이 정해져 있어, 자격이 없으면 어느 앱으로 가야 하는지 알려드립니다. 앱 정보 화면의 이름도 각 앱에 맞게 표시됩니다."
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
