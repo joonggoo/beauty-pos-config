@@ -47,20 +47,38 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.0",
-      "latest_version_code": 1,
+      "latest_version": "0.1.1",
+      "latest_version_code": 2,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.0/ecom-order-0.1.0.apk",
-      "release_notes": "Separate order app. Ordering, invoices, delivery + HRM."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.1/ecom-order-0.1.1.apk",
+      "release_notes": "다른 앱 계정으로는 로그인되지 않습니다. 앱마다 쓸 수 있는 계정이 정해져 있어, 자격이 없으면 어느 앱으로 가야 하는지 알려드립니다. 앱 정보 화면의 이름도 각 앱에 맞게 표시됩니다."
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.0",
-      "latest_version_code": 1,
+      "latest_version": "0.1.1",
+      "latest_version_code": 2,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.0/ecom-hrm-0.1.0.apk",
-      "release_notes": "Standalone HRM app. Attendance, payroll, timetable."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.1/ecom-hrm-0.1.1.apk",
+      "release_notes": "다른 앱 계정으로는 로그인되지 않습니다. 앱마다 쓸 수 있는 계정이 정해져 있어, 자격이 없으면 어느 앱으로 가야 하는지 알려드립니다. 앱 정보 화면의 이름도 각 앱에 맞게 표시됩니다."
+    },
+    "com.ecom.supply": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.1",
+      "latest_version_code": 2,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.1/ecom-supply-0.1.1.apk",
+      "release_notes": "다른 앱 계정으로는 로그인되지 않습니다. 앱마다 쓸 수 있는 계정이 정해져 있어, 자격이 없으면 어느 앱으로 가야 하는지 알려드립니다. 앱 정보 화면의 이름도 각 앱에 맞게 표시됩니다."
+    },
+    "com.ecom.beauty": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.1",
+      "latest_version_code": 2,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.1/ecom-beauty-0.1.1.apk",
+      "release_notes": "다른 앱 계정으로는 로그인되지 않습니다. 앱마다 쓸 수 있는 계정이 정해져 있어, 자격이 없으면 어느 앱으로 가야 하는지 알려드립니다. 앱 정보 화면의 이름도 각 앱에 맞게 표시됩니다."
     }
   }
 }
