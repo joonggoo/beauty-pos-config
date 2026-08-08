@@ -56,11 +56,11 @@
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.1",
-      "latest_version_code": 2,
+      "latest_version": "0.1.2",
+      "latest_version_code": 3,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.1/ecom-hrm-0.1.1.apk",
-      "release_notes": "Each app now accepts only the accounts that belong to it. If your account cannot use this app, the screen tells you which app to open instead. The app info screen also shows the correct app name."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.2/ecom-hrm-0.1.2.apk",
+      "release_notes": "Wage Statement has been redesigned for readability: larger fonts, a restructured time table, and separated earnings/deductions. Meal charges now show count x unit price, and daily misc pay is listed per day.\n\nIMPORTANT - please delete the existing app before installing. This release is signed with a new security key, so Android will refuse to update over the old build. Your data is safe on the server; you only need to sign in again."
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
