@@ -38,11 +38,11 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.9",
-      "latest_version_code": 10,
+      "latest_version": "0.1.10",
+      "latest_version_code": 11,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.9/ecom-admin-0.1.9.apk",
-      "release_notes": "Maintenance release.\n\n- Login screen now shows the app's own name instead of the shared product name, so you can tell at a glance which app you opened.\n- Internal build and packaging improvements.\n\nIMPORTANT - please delete the existing app before installing. This release is signed with a new security key, so Android will refuse to update over an older build. Your data is safe on the server; you only need to sign in again."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.10/ecom-admin-0.1.10.apk",
+      "release_notes": "More menu and Settings fixes.\n\n- Tapping the More tab now always opens the More menu. Previously it could stay on Store Configuration after using a home tile.\n- Settings shows only the settings your shop actually uses, and every link in Settings now leads somewhere.\n- Shop basic info and service rates are editable in Settings."
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
