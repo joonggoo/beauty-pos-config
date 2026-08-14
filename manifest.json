@@ -38,47 +38,47 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.10",
-      "latest_version_code": 11,
+      "latest_version": "0.1.11",
+      "latest_version_code": 12,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.10/ecom-admin-0.1.10.apk",
-      "release_notes": "More menu and Settings fixes.\n\n- Tapping the More tab now always opens the More menu. Previously it could stay on Store Configuration after using a home tile.\n- Settings shows only the settings your shop actually uses, and every link in Settings now leads somewhere.\n- Shop basic info and service rates are editable in Settings."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.11/ecom-admin-0.1.11.apk",
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
     },
     "com.ecom.order": {
-      "min_version": "0.1.0",
-      "min_version_code": 1,
-      "latest_version": "0.1.3",
-      "latest_version_code": 4,
-      "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.3/ecom-order-0.1.3.apk",
-      "release_notes": "Charts, menus and tab navigation fixes.\n\n- Analytics charts were blank with 'chart library not loaded'. The charting library is now packaged with the app, so charts draw without a network round trip.\n- HRM menu items no longer appear for shops without an HRM contract.\n- Tapping a tab now returns to the top of that tab instead of staying on the screen you opened from a home tile.\n- Order notifications no longer mix a Korean unit into English text."
-    },
-    "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
       "latest_version": "0.1.4",
       "latest_version_code": 5,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.4/ecom-hrm-0.1.4.apk",
-      "release_notes": "Payroll recalculation no longer dead-ends.\n\n- The Recalc count on the HRM home screen now counts only payroll you can actually recalculate. Payroll that is already signed, distributed or paid is excluded, because recalculating it is blocked.\n- Opening one of those locked payrolls now explains why, and what to do about it, instead of failing with an error code when you save.\n- The payroll status chart showed raw internal labels in every language. It now reads Confirmed, Paid, and so on.\n- Today's Attendance on the HRM home screen was always empty. Clocked In, Working and Pending were always zero. All four now show real numbers.\n- Order notifications no longer mix a Korean unit into English text."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.4/ecom-order-0.1.4.apk",
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
+    },
+    "com.ecom.hrm": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.5",
+      "latest_version_code": 6,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.5/ecom-hrm-0.1.5.apk",
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.3",
-      "latest_version_code": 4,
+      "latest_version": "0.1.4",
+      "latest_version_code": 5,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.3/ecom-supply-0.1.3.apk",
-      "release_notes": "Business Analytics charts work again, and month labels are in English.\n\n- Every chart on the Analytics screen showed 'chart library not loaded' and stayed blank. The charting library was missing from the app package. It is now included, so charts draw without any network round trip.\n- The month axis on the revenue chart printed Korean month labels. It now reads Jan, Feb, Mar.\n- New order notifications no longer mix a Korean unit into English text."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.4/ecom-supply-0.1.4.apk",
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.3",
-      "latest_version_code": 4,
+      "latest_version": "0.1.4",
+      "latest_version_code": 5,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.3/ecom-beauty-0.1.3.apk",
-      "release_notes": "Charts, settings and appointment panel fixes.\n\n- Analytics charts were blank with 'chart library not loaded'. The charting library is now packaged with the app, so charts draw without a network round trip.\n- The eight action buttons on the appointment side panel are aligned consistently. The Customer button no longer wraps onto two lines.\n- Settings shows only the settings your shop actually uses, and shop basic info and service rates are editable there.\n- Tapping a tab now returns to the top of that tab."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.4/ecom-beauty-0.1.4.apk",
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
     }
   }
 }
