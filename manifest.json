@@ -74,11 +74,11 @@
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.5",
-      "latest_version_code": 6,
+      "latest_version": "0.1.6",
+      "latest_version_code": 7,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.5/ecom-beauty-0.1.5.apk",
-      "release_notes": "Restores the full employee management workflow and adds CSV bulk onboarding for staff, customers, and services."
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.6/ecom-beauty-0.1.6.apk",
+      "release_notes": "Fixes employee CSV template download so it remains visually and interactively separate from the bulk upload action."
     }
   }
 }
