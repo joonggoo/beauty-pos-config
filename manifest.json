@@ -42,7 +42,8 @@
       "latest_version_code": 12,
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.11/ecom-admin-0.1.11.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
+      "published_at": "2026-08-30T16:44:03Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
@@ -51,7 +52,8 @@
       "latest_version_code": 5,
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.4/ecom-order-0.1.4.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
+      "published_at": "2026-08-30T16:44:03Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
@@ -60,7 +62,8 @@
       "latest_version_code": 6,
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.5/ecom-hrm-0.1.5.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
+      "published_at": "2026-08-30T16:44:03Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
@@ -69,7 +72,8 @@
       "latest_version_code": 5,
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.4/ecom-supply-0.1.4.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field."
+      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
+      "published_at": "2026-08-30T16:44:03Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
@@ -78,7 +82,8 @@
       "latest_version_code": 7,
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.6/ecom-beauty-0.1.6.apk",
-      "release_notes": "Fixes employee CSV template download so it remains visually and interactively separate from the bulk upload action."
+      "release_notes": "Fixes employee CSV template download so it remains visually and interactively separate from the bulk upload action.",
+      "published_at": "2026-08-30T16:44:03Z"
     }
   }
 }
