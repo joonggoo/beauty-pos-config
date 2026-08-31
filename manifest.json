@@ -38,52 +38,52 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.11",
-      "latest_version_code": 12,
+      "latest_version": "0.1.12",
+      "latest_version_code": 13,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.11/ecom-admin-0.1.11.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
-      "published_at": "2026-08-30T16:44:03Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.12/ecom-admin-0.1.12.apk",
+      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
+      "published_at": "2026-08-31T08:27:55.630501Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.4",
-      "latest_version_code": 5,
+      "latest_version": "0.1.5",
+      "latest_version_code": 6,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.4/ecom-order-0.1.4.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
-      "published_at": "2026-08-30T16:44:03Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.5/ecom-order-0.1.5.apk",
+      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
+      "published_at": "2026-08-31T08:28:26.062440Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.6",
-      "latest_version_code": 7,
+      "latest_version": "0.1.7",
+      "latest_version_code": 8,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.6/ecom-hrm-0.1.6.apk",
-      "release_notes": "Adds guided help across every HRM feature, optional first-use tips, a balanced workforce dashboard, and full-width employee payroll details.",
-      "published_at": "2026-08-31T06:11:24.523838Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.7/ecom-hrm-0.1.7.apk",
+      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
+      "published_at": "2026-08-31T08:28:16.531139Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.4",
-      "latest_version_code": 5,
+      "latest_version": "0.1.5",
+      "latest_version_code": 6,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.4/ecom-supply-0.1.4.apk",
-      "release_notes": "Pay method is now a setting. Choose Check only, Cash only, or Check + Cash for your shop in Settings > Configuration > Pay Method. Individual employees can override it on their contract, with a fixed check amount for the Check + Cash option. Payroll no longer asks you to type the split every pay period - the check and cash fields fill in from the setting, and you can still override a single week by tapping the field.",
-      "published_at": "2026-08-30T16:44:03Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.5/ecom-supply-0.1.5.apk",
+      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
+      "published_at": "2026-08-31T08:28:35.284101Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.12",
-      "latest_version_code": 13,
+      "latest_version": "0.1.13",
+      "latest_version_code": 14,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.12/ecom-beauty-0.1.12.apk",
-      "release_notes": "Improves portrait tablet layouts, keeps dashboard KPI labels readable, and prevents Operations actions from overlapping the schedule.",
-      "published_at": "2026-08-31T04:40:38.358951Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.13/ecom-beauty-0.1.13.apk",
+      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
+      "published_at": "2026-08-31T08:28:05.679922Z"
     }
   }
 }
