@@ -78,12 +78,12 @@
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.11",
-      "latest_version_code": 12,
+      "latest_version": "0.1.12",
+      "latest_version_code": 13,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.11/ecom-beauty-0.1.11.apk",
-      "release_notes": "Keeps all five Operations header actions visible after rotating to portrait.",
-      "published_at": "2026-08-31T03:32:09.933631Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.12/ecom-beauty-0.1.12.apk",
+      "release_notes": "Improves portrait tablet layouts, keeps dashboard KPI labels readable, and prevents Operations actions from overlapping the schedule.",
+      "published_at": "2026-08-31T04:40:38.358951Z"
     }
   }
 }
