@@ -78,12 +78,12 @@
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.6",
-      "latest_version_code": 7,
+      "latest_version": "0.1.7",
+      "latest_version_code": 8,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.6/ecom-beauty-0.1.6.apk",
-      "release_notes": "Fixes employee CSV template download so it remains visually and interactively separate from the bulk upload action.",
-      "published_at": "2026-08-30T16:44:03Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.7/ecom-beauty-0.1.7.apk",
+      "release_notes": "Introduces the responsive ECOM IT Solutions design, improves portrait dashboard readability, and keeps labeled login fields and the primary action visible while typing.",
+      "published_at": "2026-08-31T02:17:40.560871Z"
     }
   }
 }
