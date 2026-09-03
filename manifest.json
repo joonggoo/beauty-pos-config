@@ -38,52 +38,52 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.12",
-      "latest_version_code": 13,
+      "latest_version": "0.1.13",
+      "latest_version_code": 14,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.12/ecom-admin-0.1.12.apk",
-      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
-      "published_at": "2026-08-31T08:27:55.630501Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.13/ecom-admin-0.1.13.apk",
+      "release_notes": "Improved Workforce wage signing, launch readiness, responsive layouts, and operational reliability.",
+      "published_at": "2026-09-03T07:30:08.069468Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.5",
-      "latest_version_code": 6,
+      "latest_version": "0.1.6",
+      "latest_version_code": 7,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.5/ecom-order-0.1.5.apk",
-      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
-      "published_at": "2026-08-31T08:28:26.062440Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.6/ecom-order-0.1.6.apk",
+      "release_notes": "Improved Workforce wage signing, launch readiness, responsive layouts, and operational reliability.",
+      "published_at": "2026-09-03T07:30:39.488072Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.7",
-      "latest_version_code": 8,
+      "latest_version": "0.1.8",
+      "latest_version_code": 9,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.7/ecom-hrm-0.1.7.apk",
-      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
-      "published_at": "2026-08-31T08:28:16.531139Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.8/ecom-hrm-0.1.8.apk",
+      "release_notes": "Improved Workforce wage signing, launch readiness, responsive layouts, and operational reliability.",
+      "published_at": "2026-09-03T07:30:28.826236Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.5",
-      "latest_version_code": 6,
+      "latest_version": "0.1.6",
+      "latest_version_code": 7,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.5/ecom-supply-0.1.5.apk",
-      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
-      "published_at": "2026-08-31T08:28:35.284101Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.6/ecom-supply-0.1.6.apk",
+      "release_notes": "Improved Workforce wage signing, launch readiness, responsive layouts, and operational reliability.",
+      "published_at": "2026-09-03T07:30:50.731147Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.13",
-      "latest_version_code": 14,
+      "latest_version": "0.1.14",
+      "latest_version_code": 15,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.13/ecom-beauty-0.1.13.apk",
-      "release_notes": "Introduces the ECOM Workforce brand, clearer warning states, and improved Workforce time-log table sizing across standalone and combined apps.",
-      "published_at": "2026-08-31T08:28:05.679922Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.14/ecom-beauty-0.1.14.apk",
+      "release_notes": "Improved Workforce wage signing, launch readiness, responsive layouts, and operational reliability.",
+      "published_at": "2026-09-03T07:30:18.675467Z"
     }
   }
 }
