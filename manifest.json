@@ -38,52 +38,52 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.15",
-      "latest_version_code": 16,
+      "latest_version": "0.1.16",
+      "latest_version_code": 17,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.15/ecom-admin-0.1.15.apk",
-      "release_notes": "Launch Assistant now refreshes checklist state immediately after editing and preserves the consolidated service-opening workflow.",
-      "published_at": "2026-09-06T05:52:45Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.16/ecom-admin-0.1.16.apk",
+      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
+      "published_at": "2026-09-06T06:42:44.378794Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.7",
-      "latest_version_code": 8,
+      "latest_version": "0.1.8",
+      "latest_version_code": 9,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.7/ecom-order-0.1.7.apk",
-      "release_notes": "Improves guided shop launch, workforce safety, device assignment, operational reliability, and cross-app interface consistency.",
-      "published_at": "2026-09-06T02:26:31.321123Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.8/ecom-order-0.1.8.apk",
+      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
+      "published_at": "2026-09-06T06:43:14.205374Z"
     },
     "com.ecom.hrm": {
-      "min_version": "0.1.0",
-      "min_version_code": 1,
-      "latest_version": "0.1.9",
-      "latest_version_code": 10,
-      "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.9/ecom-hrm-0.1.9.apk",
-      "release_notes": "Improves guided shop launch, workforce safety, device assignment, operational reliability, and cross-app interface consistency.",
-      "published_at": "2026-09-06T02:26:20.211672Z"
-    },
-    "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
       "latest_version": "0.1.10",
       "latest_version_code": 11,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.10/ecom-supply-0.1.10.apk",
-      "release_notes": "Fixes the tablet landing workspace, role-safe data access, shop-timezone weather dates, notices placement, and dashboard consistency.",
-      "published_at": "2026-09-06T05:52:45Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.10/ecom-hrm-0.1.10.apk",
+      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
+      "published_at": "2026-09-06T06:43:03.842672Z"
+    },
+    "com.ecom.supply": {
+      "min_version": "0.1.0",
+      "min_version_code": 1,
+      "latest_version": "0.1.11",
+      "latest_version_code": 12,
+      "force_update": false,
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.11/ecom-supply-0.1.11.apk",
+      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
+      "published_at": "2026-09-06T06:43:25.419993Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.15",
-      "latest_version_code": 16,
+      "latest_version": "0.1.16",
+      "latest_version_code": 17,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.15/ecom-beauty-0.1.15.apk",
-      "release_notes": "Improves guided shop launch, workforce safety, device assignment, operational reliability, and cross-app interface consistency.",
-      "published_at": "2026-09-06T02:26:09.528466Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.16/ecom-beauty-0.1.16.apk",
+      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
+      "published_at": "2026-09-06T06:42:54.714911Z"
     },
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
