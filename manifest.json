@@ -68,12 +68,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.7",
-      "latest_version_code": 8,
+      "latest_version": "0.1.8",
+      "latest_version_code": 9,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.7/ecom-supply-0.1.7.apk",
-      "release_notes": "Improves guided shop launch, workforce safety, device assignment, operational reliability, and cross-app interface consistency.",
-      "published_at": "2026-09-06T02:26:41.138347Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.8/ecom-supply-0.1.8.apk",
+      "release_notes": "Rebalances the Supply tablet workspace to prioritize operational context while preserving clear, touch-friendly actions.",
+      "published_at": "2026-09-06T04:19:33.242112Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
