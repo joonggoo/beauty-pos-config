@@ -38,12 +38,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.18",
-      "latest_version_code": 19,
+      "latest_version": "0.1.19",
+      "latest_version_code": 20,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.18/ecom-admin-0.1.18.apk",
-      "release_notes": "Refreshes the parent Launch Assistant checklist immediately after Supply notification evidence changes.",
-      "published_at": "2026-09-06T10:18:57.267507Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.19/ecom-admin-0.1.19.apk",
+      "release_notes": "Allows audited SUPER_ADMIN solo launch approval while preserving independent review for other staff.",
+      "published_at": "2026-09-06T11:03:55.281426Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
