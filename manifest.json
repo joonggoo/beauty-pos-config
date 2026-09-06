@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T14:48:57Z",
+  "generated_at": "2026-09-06T05:52:45Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -38,12 +38,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.14",
-      "latest_version_code": 15,
+      "latest_version": "0.1.15",
+      "latest_version_code": 16,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.14/ecom-admin-0.1.14.apk",
-      "release_notes": "Improves guided shop launch, workforce safety, device assignment, operational reliability, and cross-app interface consistency.",
-      "published_at": "2026-09-06T02:25:58.678656Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.15/ecom-admin-0.1.15.apk",
+      "release_notes": "Launch Assistant now refreshes checklist state immediately after editing and preserves the consolidated service-opening workflow.",
+      "published_at": "2026-09-06T05:52:45Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
@@ -68,12 +68,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.8",
-      "latest_version_code": 9,
+      "latest_version": "0.1.10",
+      "latest_version_code": 11,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.8/ecom-supply-0.1.8.apk",
-      "release_notes": "Rebalances the Supply tablet workspace to prioritize operational context while preserving clear, touch-friendly actions.",
-      "published_at": "2026-09-06T04:19:33.242112Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.10/ecom-supply-0.1.10.apk",
+      "release_notes": "Fixes the tablet landing workspace, role-safe data access, shop-timezone weather dates, notices placement, and dashboard consistency.",
+      "published_at": "2026-09-06T05:52:45Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
