@@ -65,12 +65,12 @@
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.10",
-      "latest_version_code": 11,
+      "latest_version": "0.1.11",
+      "latest_version_code": 12,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.10/ecom-hrm-0.1.10.apk",
-      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
-      "published_at": "2026-09-06T06:43:03.842672Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.11/ecom-hrm-0.1.11.apk",
+      "release_notes": "Calculation now explains when a shop still runs payroll on the ER service and points to More > Payroll for past weekly payroll, instead of showing a loading error.",
+      "published_at": "2026-10-03T09:22:21.651752Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
