@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.25",
-      "latest_version_code": 26,
+      "latest_version": "0.1.26",
+      "latest_version_code": 27,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.25/ecom-admin-0.1.25.apk",
-      "release_notes": "Shop network registration: link an app shop to its Support record, review a changed network address, and register a gateway with the current public IP filled in. Shops are now listed by business name with search (short name and Business ID underneath) in every shop picker; the kiosk shop binding step shows the shop instead of asking for a code.",
-      "published_at": "2026-10-03T22:13:35.131487Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.26/ecom-admin-0.1.26.apk",
+      "release_notes": "Network gateway window: shops that cannot be linked now say why before you press anything, linked shops show who will confirm their network and whether that person can receive a text, and first sightings are listed separately from changed addresses. Shops that finished their launch are linked automatically.",
+      "published_at": "2026-10-03T23:45:18.035673Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
