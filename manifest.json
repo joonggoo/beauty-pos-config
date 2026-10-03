@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.24",
-      "latest_version_code": 25,
+      "latest_version": "0.1.25",
+      "latest_version_code": 26,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.24/ecom-admin-0.1.24.apk",
-      "release_notes": "Kiosk setup is clearer: the checklist now says the kiosk tablet registers itself when it signs in, and a launch is re-checked every time you open it.",
-      "published_at": "2026-10-03T20:55:29.837409Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.25/ecom-admin-0.1.25.apk",
+      "release_notes": "Shop network registration: link an app shop to its Support record, review a changed network address, and register a gateway with the current public IP filled in. Shops are now listed by business name with search (short name and Business ID underneath) in every shop picker; the kiosk shop binding step shows the shop instead of asking for a code.",
+      "published_at": "2026-10-03T22:13:35.131487Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
