@@ -55,42 +55,42 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.9",
-      "latest_version_code": 10,
+      "latest_version": "0.1.10",
+      "latest_version_code": 11,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.9/ecom-order-0.1.9.apk",
-      "release_notes": "The order total now follows the supplier's tax setting: when a supplier charges no tax, the cart and review screens no longer add tax to the total.",
-      "published_at": "2026-10-03T19:12:45.753491Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.10/ecom-order-0.1.10.apk",
+      "release_notes": "Shop network check: after sign-in, owners and managers are asked to confirm when the app is opened from a network that differs from the registered shop network. A network change is applied only after the owner confirms a text code. Shop network status in Settings is clearer.",
+      "published_at": "2026-10-03T22:03:16.270885Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.11",
-      "latest_version_code": 12,
+      "latest_version": "0.1.12",
+      "latest_version_code": 13,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.11/ecom-hrm-0.1.11.apk",
-      "release_notes": "Calculation now explains when a shop still runs payroll on the ER service and points to More > Payroll for past weekly payroll, instead of showing a loading error.",
-      "published_at": "2026-10-03T09:22:21.651752Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.12/ecom-hrm-0.1.12.apk",
+      "release_notes": "Shop network check: after sign-in, owners and managers are asked to confirm when the app is opened from a network that differs from the registered shop network. A network change is applied only after the owner confirms a text code. Shop network status in Settings is clearer.",
+      "published_at": "2026-10-03T22:02:13.087437Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.11",
-      "latest_version_code": 12,
+      "latest_version": "0.1.12",
+      "latest_version_code": 13,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.11/ecom-supply-0.1.11.apk",
-      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
-      "published_at": "2026-09-06T06:43:25.419993Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.12/ecom-supply-0.1.12.apk",
+      "release_notes": "Shop network check: after sign-in, owners and managers are asked to confirm when the app is opened from a network that differs from the registered shop network. A network change is applied only after the owner confirms a text code. Shop network status in Settings is clearer.",
+      "published_at": "2026-10-03T22:02:24.139998Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.16",
-      "latest_version_code": 17,
+      "latest_version": "0.1.17",
+      "latest_version_code": 18,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.16/ecom-beauty-0.1.16.apk",
-      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
-      "published_at": "2026-09-06T06:42:54.714911Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.17/ecom-beauty-0.1.17.apk",
+      "release_notes": "Shop network check: after sign-in, owners and managers are asked to confirm when the app is opened from a network that differs from the registered shop network. A network change is applied only after the owner confirms a text code. Shop network status in Settings is clearer.",
+      "published_at": "2026-10-03T22:02:00.111718Z"
     },
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
