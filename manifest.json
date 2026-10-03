@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.8",
-      "latest_version_code": 9,
+      "latest_version": "0.1.9",
+      "latest_version_code": 10,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.8/ecom-order-0.1.8.apk",
-      "release_notes": "Improves session cleanup, field guidance, launch validation, and cross-app operational consistency.",
-      "published_at": "2026-09-06T06:43:14.205374Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.9/ecom-order-0.1.9.apk",
+      "release_notes": "The order total now follows the supplier's tax setting: when a supplier charges no tax, the cart and review screens no longer add tax to the total.",
+      "published_at": "2026-10-03T19:12:45.753491Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
