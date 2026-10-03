@@ -1,28 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T05:52:45Z",
+  "generated_at": "2026-10-03T02:51:58Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
-      "tier": "primary",
-      "type": "intermediate_ca",
-      "subject": "Go Daddy Secure Certificate Authority - G2",
-      "expires": "2031-05-03",
-      "pin": "8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
-    },
-    {
-      "tier": "safety_net",
-      "type": "root_ca",
-      "subject": "Go Daddy Root Certificate Authority - G2",
-      "expires": "2031-05-30",
-      "pin": "Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+      "tier": "precision",
+      "type": "leaf",
+      "subject": "CN = ecomsupports.com",
+      "expires": "2027-04-18",
+      "pin": "ufrwft0yk5trB2QrK3Sb0eshgcfKmyxWGCWTkjwrnac="
     },
     {
       "tier": "precision",
       "type": "leaf",
-      "subject": "ecomsupports.com",
-      "expires": "2026-11-02",
-      "pin": "j+Rp4T+gbHdRNt9xfGCJUwccOp54jIiq0SCducDELk4="
+      "subject": "C = US, O = GoDaddy.com, CN = GoDaddy TLS Intermediate CA DV - R1v1",
+      "expires": "2040-08-24",
+      "pin": "Y1e/3DqsL/yWI4RIaJ4OfhLEW5JiJoNKFVF1AxFqkiA="
+    },
+    {
+      "tier": "precision",
+      "type": "leaf",
+      "subject": "C = US, O = GoDaddy.com, CN = GoDaddy TLS Root CA - R1",
+      "expires": "2037-12-31",
+      "pin": "gKjJIacZSuY6bbDnu13WF/rufps/FKwGIaqxRb5nKZA="
+    },
+    {
+      "tier": "precision",
+      "type": "leaf",
+      "subject": "C = US, ST = Arizona, L = Scottsdale, O = \"GoDaddy.com, Inc.\", CN = Go Daddy Root Certificate Authority - G2",
+      "expires": "2031-05-30",
+      "pin": "Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
     }
   ],
   "app": {
