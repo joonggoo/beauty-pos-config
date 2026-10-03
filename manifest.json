@@ -55,42 +55,42 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.11",
-      "latest_version_code": 12,
+      "latest_version": "0.1.12",
+      "latest_version_code": 13,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.11/ecom-order-0.1.11.apk",
-      "release_notes": "Shop network confirmation: when the owner has more than one shop, the manager signed in at the shop confirms a network change with a code texted to the manager's own mobile. A single-shop owner still confirms on the owner's mobile. The screens now say who receives the code.",
-      "published_at": "2026-10-03T23:13:03.950712Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.12/ecom-order-0.1.12.apk",
+      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
+      "published_at": "2026-10-03T23:46:58.786867Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.13",
-      "latest_version_code": 14,
+      "latest_version": "0.1.14",
+      "latest_version_code": 15,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.13/ecom-hrm-0.1.13.apk",
-      "release_notes": "Shop network confirmation: when the owner has more than one shop, the manager signed in at the shop confirms a network change with a code texted to the manager's own mobile. A single-shop owner still confirms on the owner's mobile. The screens now say who receives the code.",
-      "published_at": "2026-10-03T23:12:42.371809Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.14/ecom-hrm-0.1.14.apk",
+      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
+      "published_at": "2026-10-03T23:46:38.261835Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.13",
-      "latest_version_code": 14,
+      "latest_version": "0.1.14",
+      "latest_version_code": 15,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.13/ecom-supply-0.1.13.apk",
-      "release_notes": "Shop network confirmation: when the owner has more than one shop, the manager signed in at the shop confirms a network change with a code texted to the manager's own mobile. A single-shop owner still confirms on the owner's mobile. The screens now say who receives the code.",
-      "published_at": "2026-10-03T23:12:53.555913Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.14/ecom-supply-0.1.14.apk",
+      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
+      "published_at": "2026-10-03T23:46:48.634292Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.18",
-      "latest_version_code": 19,
+      "latest_version": "0.1.19",
+      "latest_version_code": 20,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.18/ecom-beauty-0.1.18.apk",
-      "release_notes": "Shop network confirmation: when the owner has more than one shop, the manager signed in at the shop confirms a network change with a code texted to the manager's own mobile. A single-shop owner still confirms on the owner's mobile. The screens now say who receives the code.",
-      "published_at": "2026-10-03T23:12:32.266368Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.19/ecom-beauty-0.1.19.apk",
+      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
+      "published_at": "2026-10-03T23:46:28.008767Z"
     },
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
