@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.23",
-      "latest_version_code": 24,
+      "latest_version": "0.1.24",
+      "latest_version_code": 25,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.23/ecom-admin-0.1.23.apk",
-      "release_notes": "Launch Assistant is easier to finish on site: the checklist shows one next step and opens the right editor, new shops set up Workforce storage in one tap, owner details and schedules are filled in for you, saves are confirmed on screen, and wording is plain English.",
-      "published_at": "2026-10-03T19:06:01.649331Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.24/ecom-admin-0.1.24.apk",
+      "release_notes": "Kiosk setup is clearer: the checklist now says the kiosk tablet registers itself when it signs in, and a launch is re-checked every time you open it.",
+      "published_at": "2026-10-03T20:55:29.837409Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
