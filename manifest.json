@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.29",
-      "latest_version_code": 30,
+      "latest_version": "0.1.30",
+      "latest_version_code": 31,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.29/ecom-admin-0.1.29.apk",
-      "release_notes": "Show separate cash and quantity totals while writing, editing and viewing reports. Add multiple shops under one work type; keep save buttons clear of Android system navigation.",
-      "published_at": "2026-10-04T02:59:01.274586Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.30/ecom-admin-0.1.30.apk",
+      "release_notes": "Fix clipped staff filter buttons in Work Reports, improve large-text spacing, and remove the non-staff mmjyoon account from filter choices. Existing reports remain available under Everyone.",
+      "published_at": "2026-10-04T04:00:18.990027Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
