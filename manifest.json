@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.31",
-      "latest_version_code": 32,
+      "latest_version": "0.1.32",
+      "latest_version_code": 33,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.31/ecom-admin-0.1.31.apk",
-      "release_notes": "Group work reports under task headings with icons, shop-by-shop bullets, and separate totals. Swipe left or right to read adjacent reports, or use Previous and Next. Confirm before leaving an unsent comment.",
-      "published_at": "2026-10-04T06:55:15.586529Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.32/ecom-admin-0.1.32.apk",
+      "release_notes": "Protect report edits from concurrent changes and duplicate saves. Preserve unsaved entries after errors and provide conflict recovery. Update to continue editing reports safely. Includes grouped work details and swipe navigation.",
+      "published_at": "2026-10-04T07:28:21.786001Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
