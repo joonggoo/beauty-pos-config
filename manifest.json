@@ -55,42 +55,42 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.12",
-      "latest_version_code": 13,
+      "latest_version": "0.1.13",
+      "latest_version_code": 14,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.12/ecom-order-0.1.12.apk",
-      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
-      "published_at": "2026-10-03T23:46:58.786867Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.13/ecom-order-0.1.13.apk",
+      "release_notes": "Contract signing and wage statement windows now keep controls clear of Android system navigation and landscape edges.",
+      "published_at": "2026-10-04T02:51:38.771669Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.14",
-      "latest_version_code": 15,
+      "latest_version": "0.1.15",
+      "latest_version_code": 16,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.14/ecom-hrm-0.1.14.apk",
-      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
-      "published_at": "2026-10-03T23:46:38.261835Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/hrm-v0.1.15/ecom-hrm-0.1.15.apk",
+      "release_notes": "Contract signing and wage statement windows now keep controls clear of Android system navigation and landscape edges.",
+      "published_at": "2026-10-04T02:51:27.666591Z"
     },
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.14",
-      "latest_version_code": 15,
+      "latest_version": "0.1.15",
+      "latest_version_code": 16,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.14/ecom-supply-0.1.14.apk",
-      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
-      "published_at": "2026-10-03T23:46:48.634292Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.15/ecom-supply-0.1.15.apk",
+      "release_notes": "Contract signing and wage statement windows now keep controls clear of Android system navigation and landscape edges.",
+      "published_at": "2026-10-04T02:51:48.911088Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.19",
-      "latest_version_code": 20,
+      "latest_version": "0.1.20",
+      "latest_version_code": 21,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.19/ecom-beauty-0.1.19.apk",
-      "release_notes": "The shop switcher now lists shops by business name with the short name underneath. Online booking confirmation texts are sent right away. When a manager confirms a shop network change, the owner is told by text.",
-      "published_at": "2026-10-03T23:46:28.008767Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.20/ecom-beauty-0.1.20.apk",
+      "release_notes": "Contract signing and wage statement windows now keep controls clear of Android system navigation and landscape edges.",
+      "published_at": "2026-10-04T02:51:16.882742Z"
     },
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
