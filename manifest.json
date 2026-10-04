@@ -49,8 +49,8 @@
       "latest_version_code": 31,
       "force_update": false,
       "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.30/ecom-admin-0.1.30.apk",
-      "release_notes": "Fix clipped staff filter buttons in Work Reports, improve large-text spacing, and remove the non-staff mmjyoon account from filter choices. Existing reports remain available under Everyone.",
-      "published_at": "2026-10-04T04:00:18.990027Z"
+      "release_notes": "Fix clipped staff filter buttons in Work Reports, improve large-text spacing, and exclude non-staff accounts from filter choices. Existing reports remain available under Everyone.",
+      "published_at": "2026-10-04T04:00:52.328228Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
