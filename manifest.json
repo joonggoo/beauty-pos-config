@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.26",
-      "latest_version_code": 27,
+      "latest_version": "0.1.27",
+      "latest_version_code": 28,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.26/ecom-admin-0.1.26.apk",
-      "release_notes": "Network gateway window: shops that cannot be linked now say why before you press anything, linked shops show who will confirm their network and whether that person can receive a text, and first sightings are listed separately from changed addresses. Shops that finished their launch are linked automatically.",
-      "published_at": "2026-10-03T23:45:18.035673Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.27/ecom-admin-0.1.27.apk",
+      "release_notes": "New: Work Reports. Read the team's daily reports (the same ones as the staff site), mark them reviewed and comment. Write a report by picking the job, the place and a few choices, add photos, and plan tomorrow. Other Admin users get a notification as soon as a report is posted.",
+      "published_at": "2026-10-04T01:01:28.371852Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
