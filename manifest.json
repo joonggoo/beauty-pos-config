@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.28",
-      "latest_version_code": 29,
+      "latest_version": "0.1.29",
+      "latest_version_code": 30,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.28/ecom-admin-0.1.28.apk",
-      "release_notes": "Add multiple shops under one work type with less repeated input. Report and setup controls now stay clear of Android system navigation.",
-      "published_at": "2026-10-04T02:49:57.922406Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.29/ecom-admin-0.1.29.apk",
+      "release_notes": "Show separate cash and quantity totals while writing, editing and viewing reports. Add multiple shops under one work type; keep save buttons clear of Android system navigation.",
+      "published_at": "2026-10-04T02:59:01.274586Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
