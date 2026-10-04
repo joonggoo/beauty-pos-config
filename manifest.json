@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.33",
-      "latest_version_code": 34,
+      "latest_version": "0.1.34",
+      "latest_version_code": 35,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.33/ecom-admin-0.1.33.apk",
-      "release_notes": "Highlight matching search text in report previews and full reports. Match text without case sensitivity while preserving original formatting and links. Keep highlights when browsing filtered reports and clear them when search is cleared.",
-      "published_at": "2026-10-04T07:42:06.895841Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.34/ecom-admin-0.1.34.apk",
+      "release_notes": "Keep report authors, dates and weekdays visible while reading. Remove duplicate bottom spacing and add report help guides.",
+      "published_at": "2026-10-04T08:00:35.299510Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
