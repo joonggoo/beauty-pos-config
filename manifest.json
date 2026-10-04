@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.34",
-      "latest_version_code": 35,
+      "latest_version": "0.1.35",
+      "latest_version_code": 36,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.34/ecom-admin-0.1.34.apk",
-      "release_notes": "Keep report authors, dates and weekdays visible while reading. Remove duplicate bottom spacing and add report help guides.",
-      "published_at": "2026-10-04T08:00:35.299510Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.35/ecom-admin-0.1.35.apk",
+      "release_notes": "Report and comment notifications now open the matching report. Incident alerts open the correct history, with staff updates, completion sharing, draft protection, and test drill filtering. Improved phone navigation and large-text layouts.",
+      "published_at": "2026-10-04T09:00:13.885179Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
