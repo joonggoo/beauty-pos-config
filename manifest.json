@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.38",
-      "latest_version_code": 39,
+      "latest_version": "0.1.39",
+      "latest_version_code": 40,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.38/ecom-admin-0.1.38.apk",
-      "release_notes": "Add bilingual service architecture diagrams and in-app guidance, incident collaboration, linked action and report workflows, and clearer service visualizations. Incident guidance SMS remains preview-only with sending disabled.",
-      "published_at": "2026-10-05T13:17:11.510367Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.39/ecom-admin-0.1.39.apk",
+      "release_notes": "Add bilingual incident replay to the operations dashboard: three isolated training scenarios, playback controls, staff coordination, SMS cancellation and report previews. Replay sends no messages and saves no production records.",
+      "published_at": "2026-10-05T13:53:16.116039Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
