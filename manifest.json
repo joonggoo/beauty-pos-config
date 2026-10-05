@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.40",
-      "latest_version_code": 41,
+      "latest_version": "0.1.41",
+      "latest_version_code": 42,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.40/ecom-admin-0.1.40.apk",
-      "release_notes": "Show complete SMS drafts throughout incident training, including before guidance and after cancellation. Add independent English and Korean previews aligned with the operational network template. Training never sends messages.",
-      "published_at": "2026-10-05T21:57:53.669104Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.41/ecom-admin-0.1.41.apk",
+      "release_notes": "Adds native Mini Homepage editing with owner or assigned-manager support consent and change history. Removes shop sales reports from Admin More. Improves device-local dashboard timestamps and resource chart readability.",
+      "published_at": "2026-10-05T22:51:06.880800Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
