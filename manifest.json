@@ -85,12 +85,12 @@
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.20",
-      "latest_version_code": 21,
+      "latest_version": "0.1.21",
+      "latest_version_code": 22,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.20/ecom-beauty-0.1.20.apk",
-      "release_notes": "Contract signing and wage statement windows now keep controls clear of Android system navigation and landscape edges.",
-      "published_at": "2026-10-04T02:51:16.882742Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.21/ecom-beauty-0.1.21.apk",
+      "release_notes": "Adds native Mini Homepage editing from More. Shop owners and assigned managers can grant or revoke ECOM editing support and review change history. Support access is off by default.",
+      "published_at": "2026-10-05T22:52:15.496513Z"
     },
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
