@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.36",
-      "latest_version_code": 37,
+      "latest_version": "0.1.37",
+      "latest_version_code": 38,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.36/ecom-admin-0.1.36.apk",
-      "release_notes": "Improve report summaries, workflow statistics, recurring issue evidence, and incident field guidance.",
-      "published_at": "2026-10-05T03:03:53.842970Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.37/ecom-admin-0.1.37.apk",
+      "release_notes": "Add a full-screen service operations dashboard with incident history, period statistics, and signed worker health and resource monitoring. Distinguish unmeasured automation and shared-host limits.",
+      "published_at": "2026-10-05T04:03:37.322836Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
