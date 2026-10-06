@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.45",
-      "latest_version_code": 46,
+      "latest_version": "0.1.46",
+      "latest_version_code": 47,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.45/ecom-admin-0.1.45.apk",
-      "release_notes": "Adds incident SMS approval controls, reviewed recovery knowledge, and detailed recovery scenarios. Improves incident guidance and background service reliability.",
-      "published_at": "2026-10-06T20:50:05.080126Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.46/ecom-admin-0.1.46.apk",
+      "release_notes": "Service coverage is now visible on the home screen. Tap a service to open filtered operations. Compact responsive cards improve tablet and phone layouts. Incident SMS setup messages now identify missing configuration.",
+      "published_at": "2026-10-06T21:20:32.084071Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
