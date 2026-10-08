@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.49",
-      "latest_version_code": 50,
+      "latest_version": "0.1.50",
+      "latest_version_code": 51,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.49/ecom-admin-0.1.49.apk",
-      "release_notes": "Prioritize field incidents and next steps, show verified knowledge readiness, and distinguish recovery evidence from automation targets.",
-      "published_at": "2026-10-08T12:25:33.138869Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.50/ecom-admin-0.1.50.apk",
+      "release_notes": "Count monitor-confirmed recoveries without recorded staff intervention, including recoveries without a recorded action. Add reviewed next-step learning labels with source checks, withdrawal, and clearer learning readiness.",
+      "published_at": "2026-10-08T13:31:44.862018Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
