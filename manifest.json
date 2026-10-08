@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.48",
-      "latest_version_code": 49,
+      "latest_version": "0.1.49",
+      "latest_version_code": 50,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.48/ecom-admin-0.1.48.apk",
-      "release_notes": "Keep settings tied to the selected shop, verify saved values, and improve configuration error handling.",
-      "published_at": "2026-10-08T11:19:04.972751Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.49/ecom-admin-0.1.49.apk",
+      "release_notes": "Prioritize field incidents and next steps, show verified knowledge readiness, and distinguish recovery evidence from automation targets.",
+      "published_at": "2026-10-08T12:25:33.138869Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
