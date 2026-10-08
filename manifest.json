@@ -85,12 +85,12 @@
     "com.ecom.beauty": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.22",
-      "latest_version_code": 23,
+      "latest_version": "0.1.23",
+      "latest_version_code": 24,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.22/ecom-beauty-0.1.22.apk",
-      "release_notes": "Improves SMS background service reliability when switching apps and when Android restricts service startup. Existing messaging and approval policies are unchanged.",
-      "published_at": "2026-10-06T21:10:41.320664Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/beauty-v0.1.23/ecom-beauty-0.1.23.apk",
+      "release_notes": "Keep settings tied to the selected shop, verify saved values, and improve configuration error handling.",
+      "published_at": "2026-10-08T11:25:20.501743Z"
     },
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
