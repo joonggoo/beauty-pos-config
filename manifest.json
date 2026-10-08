@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.50",
-      "latest_version_code": 51,
+      "latest_version": "0.1.51",
+      "latest_version_code": 52,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.50/ecom-admin-0.1.50.apk",
-      "release_notes": "Count monitor-confirmed recoveries without recorded staff intervention, including recoveries without a recorded action. Add reviewed next-step learning labels with source checks, withdrawal, and clearer learning readiness.",
-      "published_at": "2026-10-08T13:31:44.862018Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.51/ecom-admin-0.1.51.apk",
+      "release_notes": "Added company and personal schedules, private tasks, and hongs-only quotations with product and labor catalogs, immutable versions, and PDF/JPG sharing. Improved field dispatch and today's report drafts.",
+      "published_at": "2026-10-08T23:36:33.934485Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
