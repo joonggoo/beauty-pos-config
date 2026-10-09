@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.51",
-      "latest_version_code": 52,
+      "latest_version": "0.1.52",
+      "latest_version_code": 53,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.51/ecom-admin-0.1.51.apk",
-      "release_notes": "Added company and personal schedules, private tasks, and hongs-only quotations with product and labor catalogs, immutable versions, and PDF/JPG sharing. Improved field dispatch and today's report drafts.",
-      "published_at": "2026-10-08T23:36:33.934485Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.52/ecom-admin-0.1.52.apk",
+      "release_notes": "Simplified quotation tables with item quantities and totals, customer search, confirmed sending history and preserved document contents. Redesigned PDF and JPG quotations using the supplied form.",
+      "published_at": "2026-10-09T12:46:04.959294Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
