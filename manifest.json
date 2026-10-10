@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.54",
-      "latest_version_code": 55,
+      "latest_version": "0.1.55",
+      "latest_version_code": 56,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.54/ecom-admin-0.1.54.apk",
-      "release_notes": "ECOM logo added to quotation PDF and JPG headers on every page.",
-      "published_at": "2026-10-10T02:30:39.812320Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.55/ecom-admin-0.1.55.apk",
+      "release_notes": "Status colors for service and monitoring buttons: green for observed healthy, red for degraded, and gray for unknown or stale observations. Selected filters retain their status color.",
+      "published_at": "2026-10-10T03:08:55.629236Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
