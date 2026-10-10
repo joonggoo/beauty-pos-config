@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.55",
-      "latest_version_code": 56,
+      "latest_version": "0.1.56",
+      "latest_version_code": 57,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.55/ecom-admin-0.1.55.apk",
-      "release_notes": "Status colors for service and monitoring buttons: green for observed healthy, red for degraded, and gray for unknown or stale observations. Selected filters retain their status color.",
-      "published_at": "2026-10-10T03:08:55.629236Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.56/ecom-admin-0.1.56.apk",
+      "release_notes": "Set up or change quotation Gmail senders and let hongs grant or revoke employee quotation access.",
+      "published_at": "2026-10-10T10:51:07.894032Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
