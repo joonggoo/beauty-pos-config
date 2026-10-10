@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.57",
-      "latest_version_code": 58,
+      "latest_version": "0.1.58",
+      "latest_version_code": 59,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.57/ecom-admin-0.1.57.apk",
-      "release_notes": "Restore the owner list on phones in Launch Assistant and keep owner-to-shop navigation available on every screen size.",
-      "published_at": "2026-10-10T11:13:49.795806Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.58/ecom-admin-0.1.58.apk",
+      "release_notes": "Show first-observed incident times and make unconfirmed monitoring actionable. Require fresh recovery checks before saving while preserving field notes and today's report handoff.",
+      "published_at": "2026-10-10T21:48:15.214189Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
