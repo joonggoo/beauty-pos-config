@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.58",
-      "latest_version_code": 59,
+      "latest_version": "0.1.59",
+      "latest_version_code": 60,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.58/ecom-admin-0.1.58.apk",
-      "release_notes": "Show first-observed incident times and make unconfirmed monitoring actionable. Require fresh recovery checks before saving while preserving field notes and today's report handoff.",
-      "published_at": "2026-10-10T21:48:15.214189Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.59/ecom-admin-0.1.59.apk",
+      "release_notes": "Show installed services for the selected shop and browse shops by service separately. Manage equipment models, firmware, specifications, and change history together with Terminal Management.",
+      "published_at": "2026-10-11T22:38:29.479779Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
