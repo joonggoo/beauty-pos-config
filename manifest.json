@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.61",
-      "latest_version_code": 62,
+      "latest_version": "0.1.62",
+      "latest_version_code": 63,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.61/ecom-admin-0.1.61.apk",
-      "release_notes": "Review MLX report findings against original reports, approve scoped reference knowledge, and preserve existing learning approvals. Improve large-text field actions and action-to-daily-report handoff. Update operations guides.",
-      "published_at": "2026-10-13T00:06:51.436665Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.62/ecom-admin-0.1.62.apk",
+      "release_notes": "Open Admin directly into field work. Keep the current shop and next action first, with filters and technical evidence on demand. Keep administration one tap away and preserve confirmation-to-daily-report flow.",
+      "published_at": "2026-10-13T02:14:33.410207Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
