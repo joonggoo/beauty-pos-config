@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.62",
-      "latest_version_code": 63,
+      "latest_version": "0.1.63",
+      "latest_version_code": 64,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.62/ecom-admin-0.1.62.apk",
-      "release_notes": "Open Admin directly into field work. Keep the current shop and next action first, with filters and technical evidence on demand. Keep administration one tap away and preserve confirmation-to-daily-report flow.",
-      "published_at": "2026-10-13T02:14:33.410207Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.63/ecom-admin-0.1.63.apk",
+      "release_notes": "Restore the administration button menu on the home screen. Open field work from the top button. Keep management tools accessible on phones and tablets and add an incident alert settings shortcut.",
+      "published_at": "2026-10-13T09:33:21.130121Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
