@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.63",
-      "latest_version_code": 64,
+      "latest_version": "0.1.64",
+      "latest_version_code": 65,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.63/ecom-admin-0.1.63.apk",
-      "release_notes": "Restore the administration button menu on the home screen. Open field work from the top button. Keep management tools accessible on phones and tablets and add an incident alert settings shortcut.",
-      "published_at": "2026-10-13T09:33:21.130121Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.64/ecom-admin-0.1.64.apk",
+      "release_notes": "Review MLX report knowledge with searchable lists, source comparisons, focused editing and visible approval controls. Simplify the More menu and show the ECOM logo on the home screen.",
+      "published_at": "2026-10-13T16:47:38.413759Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
