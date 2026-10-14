@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.64",
-      "latest_version_code": 65,
+      "latest_version": "0.1.65",
+      "latest_version_code": 66,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.64/ecom-admin-0.1.64.apk",
-      "release_notes": "Review MLX report knowledge with searchable lists, source comparisons, focused editing and visible approval controls. Simplify the More menu and show the ECOM logo on the home screen.",
-      "published_at": "2026-10-13T16:47:38.413759Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.65/ecom-admin-0.1.65.apk",
+      "release_notes": "Find recovery scenarios by symptom and service, review concise checks and proposed steps, and retain filters and draft feedback. Improve report readability, preserve loaded reports after connection failures, and clarify saved-action handoffs and knowledge freshness. Fix the home Sync button to refresh server data with progress and retry feedback.",
+      "published_at": "2026-10-14T04:26:20.186416Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
