@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.66",
-      "latest_version_code": 67,
+      "latest_version": "0.1.67",
+      "latest_version_code": 68,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.66/ecom-admin-0.1.66.apk",
-      "release_notes": "Show Location automatically from the registered shop address with directions from your current location. Remove map content editing and require verified owner or manager consent before ECOM homepage edits.",
-      "published_at": "2026-10-14T04:42:12.800492Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.67/ecom-admin-0.1.67.apk",
+      "release_notes": "See concurrent shop incidents by scenario, with clear staff and shop response states, first-observed times, and direct incident drill-down. Add map service filters and fullscreen controls, a calendar view for tasks and schedules, and consistent management and field-work navigation.",
+      "published_at": "2026-10-14T23:44:34.427500Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
