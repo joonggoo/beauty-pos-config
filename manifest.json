@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.65",
-      "latest_version_code": 66,
+      "latest_version": "0.1.66",
+      "latest_version_code": 67,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.65/ecom-admin-0.1.65.apk",
-      "release_notes": "Find recovery scenarios by symptom and service, review concise checks and proposed steps, and retain filters and draft feedback. Improve report readability, preserve loaded reports after connection failures, and clarify saved-action handoffs and knowledge freshness. Fix the home Sync button to refresh server data with progress and retry feedback.",
-      "published_at": "2026-10-14T04:26:20.186416Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.66/ecom-admin-0.1.66.apk",
+      "release_notes": "Show Location automatically from the registered shop address with directions from your current location. Remove map content editing and require verified owner or manager consent before ECOM homepage edits.",
+      "published_at": "2026-10-14T04:42:12.800492Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
