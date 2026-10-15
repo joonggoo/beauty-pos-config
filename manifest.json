@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.67",
-      "latest_version_code": 68,
+      "latest_version": "0.1.68",
+      "latest_version_code": 69,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.67/ecom-admin-0.1.67.apk",
-      "release_notes": "See concurrent shop incidents by scenario, with clear staff and shop response states, first-observed times, and direct incident drill-down. Add map service filters and fullscreen controls, a calendar view for tasks and schedules, and consistent management and field-work navigation.",
-      "published_at": "2026-10-14T23:44:34.427500Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.68/ecom-admin-0.1.68.apk",
+      "release_notes": "Add personal calendar import and calendar editing, company calendar entries for sent quotes, card views, quote workflow filters and version history, catalog item duplication and deactivation, independent quote pricing, and installed app version details.",
+      "published_at": "2026-10-15T23:15:43.374056Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
