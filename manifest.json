@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.68",
-      "latest_version_code": 69,
+      "latest_version": "0.1.69",
+      "latest_version_code": 70,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.68/ecom-admin-0.1.68.apk",
-      "release_notes": "Add personal calendar import and calendar editing, company calendar entries for sent quotes, card views, quote workflow filters and version history, catalog item duplication and deactivation, independent quote pricing, and installed app version details.",
-      "published_at": "2026-10-15T23:15:43.374056Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.69/ecom-admin-0.1.69.apk",
+      "release_notes": "Rebuilt Mini Homepage editing with a focused page composer: save page name, photo or video, and customer visibility together. Added content readiness filters, photo library and Files selection, unsaved-change confirmation, and recovery after connection failures. Kept shop consent, change history, automatic maps, and directions. Fixed customer-page links to open the selected page.",
+      "published_at": "2026-10-16T10:28:47.878440Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
