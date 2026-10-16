@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.69",
-      "latest_version_code": 70,
+      "latest_version": "0.1.70",
+      "latest_version_code": 71,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.69/ecom-admin-0.1.69.apk",
-      "release_notes": "Rebuilt Mini Homepage editing with a focused page composer: save page name, photo or video, and customer visibility together. Added content readiness filters, photo library and Files selection, unsaved-change confirmation, and recovery after connection failures. Kept shop consent, change history, automatic maps, and directions. Fixed customer-page links to open the selected page.",
-      "published_at": "2026-10-16T10:28:47.878440Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.70/ecom-admin-0.1.70.apk",
+      "release_notes": "Add a dedicated network operations dashboard with service coverage, shop status filters, 24-hour ping history, latency, packet loss, incident and recovery KPIs. Inspect collector health, observation gaps and registered-IP tests, with responsive phone and tablet layouts.",
+      "published_at": "2026-10-16T22:47:16.688392Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
