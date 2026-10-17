@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.71",
-      "latest_version_code": 72,
+      "latest_version": "0.1.72",
+      "latest_version_code": 73,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.71/ecom-admin-0.1.71.apk",
-      "release_notes": "Make network operations a fixed-screen dashboard with quiet data refresh, stable shop pages, service health bars and hourly response charts. Briefly emphasize changed values without moving the layout, and respect Reduce Motion settings. Notify confirmed gateway fault and recovery transitions with diagnostic details, without repeated alerts for unchanged states. Keep landing status buttons stable during data refresh. Tap a ping item to view 24-hour performance trends and recent individual checks.",
-      "published_at": "2026-10-16T23:52:00.287762Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.72/ecom-admin-0.1.72.apk",
+      "release_notes": "Redesigned network operations with a compact cockpit dashboard, service icons, per-site response traces, and one-tap fault filters. Public IPs remain available in detail views. Preserves quiet refresh, performance history, and accessible status labels.",
+      "published_at": "2026-10-17T00:32:59.472053Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
