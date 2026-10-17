@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.73",
-      "latest_version_code": 74,
+      "latest_version": "0.1.74",
+      "latest_version_code": 75,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.73/ecom-admin-0.1.73.apk",
-      "release_notes": "Make owner editing accessible from every owner row and keep an Edit owner information button visible above the selected owner's shops.",
-      "published_at": "2026-10-17T03:22:08.050677Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.74/ecom-admin-0.1.74.apk",
+      "release_notes": "A denser network cockpit with site status instruments and aligned performance history. Dispatch maps compare incident shops with staff who opt into foreground location sharing, with distance, accuracy, freshness and route actions. Simplified owner names. View saved sending snapshots in the original PDF/JPG layout with zoom and multiple pages.",
+      "published_at": "2026-10-17T04:24:14.200376Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
