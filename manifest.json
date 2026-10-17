@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.75",
-      "latest_version_code": 76,
+      "latest_version": "0.1.76",
+      "latest_version_code": 77,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.75/ecom-admin-0.1.75.apk",
-      "release_notes": "Integrated O&M command deck with live work queues, priority incidents, recorded agent evidence and scoped field actions. Fixed viewport layouts for phones and tablets, with paginated details. Separate network, advisory runtime, no-staff outcomes and confirmed knowledge signals.",
-      "published_at": "2026-10-17T04:50:47.844783Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.76/ecom-admin-0.1.76.apk",
+      "release_notes": "One-page-first quotations with compact customer details, readable item tables, side-by-side terms and totals, and retained historical layouts. Supports New York 8.875% tax and fixes a navigation input-focus crash.",
+      "published_at": "2026-10-17T08:06:46.146631Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
