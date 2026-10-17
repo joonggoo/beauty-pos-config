@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.74",
-      "latest_version_code": 75,
+      "latest_version": "0.1.75",
+      "latest_version_code": 76,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.74/ecom-admin-0.1.74.apk",
-      "release_notes": "A denser network cockpit with site status instruments and aligned performance history. Dispatch maps compare incident shops with staff who opt into foreground location sharing, with distance, accuracy, freshness and route actions. Simplified owner names. View saved sending snapshots in the original PDF/JPG layout with zoom and multiple pages.",
-      "published_at": "2026-10-17T04:24:14.200376Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.75/ecom-admin-0.1.75.apk",
+      "release_notes": "Integrated O&M command deck with live work queues, priority incidents, recorded agent evidence and scoped field actions. Fixed viewport layouts for phones and tablets, with paginated details. Separate network, advisory runtime, no-staff outcomes and confirmed knowledge signals.",
+      "published_at": "2026-10-17T04:50:47.844783Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
