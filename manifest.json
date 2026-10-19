@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.78",
-      "latest_version_code": 79,
+      "latest_version": "0.1.79",
+      "latest_version_code": 80,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.78/ecom-admin-0.1.78.apk",
-      "release_notes": "Expand the Dispatch map to full screen on phones and tablets, then restore the original layout while keeping the selected shop, staff, map center and zoom.",
-      "published_at": "2026-10-18T11:48:14.866448Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.79/ecom-admin-0.1.79.apk",
+      "release_notes": "A more compact operations cockpit highlights network health and next actions. Search and select shops in O&M and Dispatch on phones and tablets, with clearer shop-scoped incidents, fewer repeated details, and improved keyboard and landscape layouts.",
+      "published_at": "2026-10-19T08:26:18.833480Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
