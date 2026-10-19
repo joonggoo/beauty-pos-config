@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.79",
-      "latest_version_code": 80,
+      "latest_version": "0.1.80",
+      "latest_version_code": 81,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.79/ecom-admin-0.1.79.apk",
-      "release_notes": "A more compact operations cockpit highlights network health and next actions. Search and select shops in O&M and Dispatch on phones and tablets, with clearer shop-scoped incidents, fewer repeated details, and improved keyboard and landscape layouts.",
-      "published_at": "2026-10-19T08:26:18.833480Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.80/ecom-admin-0.1.80.apk",
+      "release_notes": "Simplified Admin settings for field operations. US-only map locations, address searches, staff distances and dispatch routes, including Alaska and Hawaii. Staff warnings for missing shop addresses, mobile contacts and public IPs, with direct completion actions.",
+      "published_at": "2026-10-19T23:23:50.565240Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
