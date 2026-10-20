@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.16",
-      "latest_version_code": 17,
+      "latest_version": "0.1.17",
+      "latest_version_code": 18,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.16/ecom-order-0.1.16.apk",
-      "release_notes": "Keep the full product list visible after autosave and returning to an order. The Ordered filter changes only when you select or clear it.",
-      "published_at": "2026-10-20T17:14:01.754435Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.17/ecom-order-0.1.17.apk",
+      "release_notes": "Keep product names, prices, and quantities readable on phones and tablets. Improve large-text ordering and review layouts, keep submission actions visible, and preserve manual product filters after autosave.",
+      "published_at": "2026-10-20T22:54:07.050928Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
