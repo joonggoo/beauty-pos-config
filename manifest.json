@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.18",
-      "latest_version_code": 19,
+      "latest_version": "0.1.19",
+      "latest_version_code": 20,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.18/ecom-supply-0.1.18.apk",
-      "release_notes": "Keep production dates and actions accessible on phones. Preserve quantities separately for each delivery date, correct calendar navigation across time zones, and align factory permissions across the app and web.",
-      "published_at": "2026-10-20T21:52:24.097635Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.19/ecom-supply-0.1.19.apk",
+      "release_notes": "Keep full product names and production quantity controls visible on phones and tablets. Improve large-text layouts, touch targets, and access to Done while preserving saved quantities and permissions.",
+      "published_at": "2026-10-20T23:23:07.735123Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
