@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.80",
-      "latest_version_code": 81,
+      "latest_version": "0.1.81",
+      "latest_version_code": 82,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.80/ecom-admin-0.1.80.apk",
-      "release_notes": "Simplified Admin settings for field operations. US-only map locations, address searches, staff distances and dispatch routes, including Alaska and Hawaii. Staff warnings for missing shop addresses, mobile contacts and public IPs, with direct completion actions.",
-      "published_at": "2026-10-19T23:23:50.565240Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.81/ecom-admin-0.1.81.apk",
+      "release_notes": "Work Reports now shows missing shop addresses, public IPs, and owner/manager mobile contacts with shop-level details. Improved field dashboard navigation, incident action previews, tablet layouts, and map controls.",
+      "published_at": "2026-10-20T10:35:49.285615Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
