@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.83",
-      "latest_version_code": 84,
+      "latest_version": "0.1.84",
+      "latest_version_code": 85,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.83/ecom-admin-0.1.83.apk",
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.84/ecom-admin-0.1.84.apk",
       "release_notes": "Use ECOM short names consistently in shop lists, dashboards, selection, and maps. Keep legal names available for editing and search.",
-      "published_at": "2026-10-21T22:52:00.498805Z"
+      "published_at": "2026-10-21T22:59:40.584639Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
