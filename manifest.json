@@ -102,5 +102,19 @@
       "release_notes": "Honor the selected Business ID, clear shop-specific caches when switching sessions, and refresh settings without stale cached responses.",
       "published_at": "2026-10-08T11:28:06.985589Z"
     }
+  },
+  "ios_apps": {
+    "com.ecom.admin": {
+      "testflight": {
+        "status": "testing",
+        "version": "0.1.67",
+        "build": "71",
+        "expires_at": "2027-01-12T00:00:00Z",
+        "notes": "Field operations and scenario overview improvements."
+      },
+      "app_store": {
+        "status": "awaiting_review"
+      }
+    }
   }
 }
