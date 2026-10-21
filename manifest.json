@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.81",
-      "latest_version_code": 82,
+      "latest_version": "0.1.82",
+      "latest_version_code": 83,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.81/ecom-admin-0.1.81.apk",
-      "release_notes": "Work Reports now shows missing shop addresses, public IPs, and owner/manager mobile contacts with shop-level details. Improved field dashboard navigation, incident action previews, tablet layouts, and map controls.",
-      "published_at": "2026-10-20T10:35:49.285615Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.82/ecom-admin-0.1.82.apk",
+      "release_notes": "Display preferred shop names consistently in shop selectors, details, maps, and terminal management.",
+      "published_at": "2026-10-21T22:30:15.876620Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
