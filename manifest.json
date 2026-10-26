@@ -107,10 +107,10 @@
     "com.ecom.admin": {
       "testflight": {
         "status": "testing",
-        "version": "0.1.67",
-        "build": "71",
-        "expires_at": "2027-01-12T00:00:00Z",
-        "notes": "Field operations and scenario overview improvements."
+        "version": "0.1.84",
+        "build": "93",
+        "expires_at": "2027-01-19T15:02:09-08:00",
+        "notes": "Use ECOM short names consistently in shop lists, dashboards, selection, and maps."
       },
       "app_store": {
         "status": "awaiting_review"
