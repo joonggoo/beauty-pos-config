@@ -1,6 +1,5 @@
 import copy
 import json
-from pathlib import Path
 import subprocess
 import sys
 
@@ -20,19 +19,21 @@ def validate_progression(previous, current):
         after = current.get('ios_apps', {}).get(package)
         if not isinstance(after, dict):
             raise ValueError('Published iOS channel removed: ' + package)
-        if str(before.get('build_number', '')).isdigit():
-            number = str(after.get('build_number', ''))
-            if not number.isdigit() or int(number) < int(before['build_number']):
+        old_testflight = before.get('testflight', {})
+        new_testflight = after.get('testflight', {})
+        if str(old_testflight.get('build', '')).isdigit():
+            number = str(new_testflight.get('build', ''))
+            if not number.isdigit() or int(number) < int(old_testflight['build']):
                 raise ValueError('Published iOS build downgrade: ' + package)
 
 
 def selftest():
-    previous = {'apps': {'example': {'latest_version': '0.1.85', 'latest_version_code': 86}}, 'ios_apps': {'example': {'build_number': '93'}}}
+    previous = {'apps': {'example': {'latest_version': '0.1.85', 'latest_version_code': 86}}, 'ios_apps': {'example': {'testflight': {'build': '93'}}}}
     validate_progression(previous, copy.deepcopy(previous))
     new = copy.deepcopy(previous)
     new['apps']['example'].update(latest_version='0.1.86', latest_version_code=87)
     validate_progression(previous, new)
-    changes = [lambda d: d['apps']['example'].update(latest_version_code=85), lambda d: d['apps'].clear(), lambda d: d['apps']['example'].update(latest_version='0.1.99'), lambda d: d['ios_apps']['example'].update(build_number='92')]
+    changes = [lambda d: d['apps']['example'].update(latest_version_code=85), lambda d: d['apps'].clear(), lambda d: d['apps']['example'].update(latest_version='0.1.99'), lambda d: d['ios_apps']['example']['testflight'].update(build='92')]
     for change in changes:
         candidate = copy.deepcopy(previous)
         change(candidate)
