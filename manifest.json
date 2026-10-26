@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.85",
-      "latest_version_code": 86,
+      "latest_version": "0.1.86",
+      "latest_version_code": 87,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.85/ecom-admin-0.1.85.apk",
-      "release_notes": "Monitor card terminals alongside shop gateway connectivity. Show business hours, reported terminal errors, processor connectivity, first observations, concise next actions and additional checks. Keep unknown transaction history distinct from a verified outage.",
-      "published_at": "2026-10-26T23:16:34.120904Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.86/ecom-admin-0.1.86.apk",
+      "release_notes": "Show the last observed payment transaction in scheduled monitoring and terminal details. Preserve transaction details during disconnection or an empty batch, with clear timestamps and outcome labels.",
+      "published_at": "2026-10-26T23:53:56.245628Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
