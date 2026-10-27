@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.86",
-      "latest_version_code": 87,
+      "latest_version": "0.1.87",
+      "latest_version_code": 88,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.86/ecom-admin-0.1.86.apk",
-      "release_notes": "Show the last observed payment transaction in scheduled monitoring and terminal details. Preserve transaction details during disconnection or an empty batch, with clear timestamps and outcome labels.",
-      "published_at": "2026-10-26T23:53:56.245628Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.87/ecom-admin-0.1.87.apk",
+      "release_notes": "Connect shop observations, incident status, agent evidence and next actions in one workspace. Preserve the selected shop across dispatch and scenarios, keep the current case during refresh, and improve phone and tablet layouts. Fix terminal editing keyboard focus and shop context.",
+      "published_at": "2026-10-27T12:56:15.060331Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
