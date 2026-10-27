@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.87",
-      "latest_version_code": 88,
+      "latest_version": "0.1.88",
+      "latest_version_code": 89,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.87/ecom-admin-0.1.87.apk",
-      "release_notes": "Connect shop observations, incident status, agent evidence and next actions in one workspace. Preserve the selected shop across dispatch and scenarios, keep the current case during refresh, and improve phone and tablet layouts. Fix terminal editing keyboard focus and shop context.",
-      "published_at": "2026-10-27T12:56:15.060331Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.88/ecom-admin-0.1.88.apk",
+      "release_notes": "View each shop's card terminals with individual transaction observations, report counts, query times and detail availability. Preserve signed report amounts and clearly identify unavailable transaction time, type meaning and outcome. Return to the same shop after Dispatch and view enabled ECOM apps with their latest recorded activity.",
+      "published_at": "2026-10-27T14:39:02.229241Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
