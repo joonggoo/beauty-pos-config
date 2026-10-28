@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-03T02:51:58Z",
+  "generated_at": "2026-10-28T08:32:12.432084Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -107,10 +107,10 @@
     "com.ecom.admin": {
       "testflight": {
         "status": "testing",
-        "version": "0.1.84",
-        "build": "93",
-        "expires_at": "2027-01-19T15:02:09-08:00",
-        "notes": "Use ECOM short names consistently in shop lists, dashboards, selection, and maps."
+        "version": "0.1.88",
+        "build": "97",
+        "expires_at": "2027-01-25T06:32:44-08:00",
+        "notes": "View each shop's card terminals with individual transaction observations, report counts, query times and detail availability. Preserve signed report amounts and clearly identify unavailable transaction time, type meaning and outcome. Return to the same shop after Dispatch and view enabled ECOM apps with their latest recorded activity."
       },
       "app_store": {
         "status": "awaiting_review"
