@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.93",
-      "latest_version_code": 94,
+      "latest_version": "0.1.94",
+      "latest_version_code": 95,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.93/ecom-admin-0.1.93.apk",
-      "release_notes": "Manage multiple ISP gateways per shop; select the exact circuit for IP updates, preserve other gateways, and identify each ISP in monitoring.",
-      "published_at": "2026-10-30T23:20:46.017274Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.94/ecom-admin-0.1.94.apk",
+      "release_notes": "Observe wired ISP and LTE paths from shop-bound Kiosk heartbeats. Register verified path references, distinguish multiple paths and unknown addresses, and stop treating stale observations as current. Observations never replace configured gateway IPs.",
+      "published_at": "2026-10-30T23:45:17.095415Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
