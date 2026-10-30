@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.92",
-      "latest_version_code": 93,
+      "latest_version": "0.1.93",
+      "latest_version_code": 94,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.92/ecom-admin-0.1.92.apk",
-      "release_notes": "Manage shop LTE backup readiness and notes, verify equipment connections, select or edit US internet providers, and view equipment transfer history. Includes compact onboarding and iPad editor improvements.",
-      "published_at": "2026-10-30T12:02:02.257788Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.93/ecom-admin-0.1.93.apk",
+      "release_notes": "Manage multiple ISP gateways per shop; select the exact circuit for IP updates, preserve other gateways, and identify each ISP in monitoring.",
+      "published_at": "2026-10-30T23:20:46.017274Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
