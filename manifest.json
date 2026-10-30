@@ -95,12 +95,12 @@
     "com.ecom.kiosk": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "1.0.60",
-      "latest_version_code": 61,
+      "latest_version": "1.0.61",
+      "latest_version_code": 62,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/kiosk-v1.0.60/ecom-kiosk-1.0.60.apk",
-      "release_notes": "Honor the selected Business ID, clear shop-specific caches when switching sessions, and refresh settings without stale cached responses.",
-      "published_at": "2026-10-08T11:28:06.985589Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/kiosk-v1.0.61/ecom-kiosk-1.0.61.apk",
+      "release_notes": "Observe the active internet path from authenticated shop-bound stations without interrupting attendance. Support wired and LTE reference matching in Admin.",
+      "published_at": "2026-10-30T23:44:01.975906Z"
     }
   },
   "ios_apps": {
