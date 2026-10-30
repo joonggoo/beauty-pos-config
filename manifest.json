@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.90",
-      "latest_version_code": 91,
+      "latest_version": "0.1.91",
+      "latest_version_code": 92,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.90/ecom-admin-0.1.90.apk",
-      "release_notes": "Keep report comments and the Send button visible above the keyboard on phones and tablets. Preserve report navigation and safe-area spacing.",
-      "published_at": "2026-10-29T23:20:23.533793Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.91/ecom-admin-0.1.91.apk",
+      "release_notes": "Shop onboarding now fits phone screens, keeps edit actions visible, and uses consistent text sizes with improved header spacing.",
+      "published_at": "2026-10-30T10:37:30.671653Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
