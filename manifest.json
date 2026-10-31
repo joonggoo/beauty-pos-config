@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.96",
-      "latest_version_code": 97,
+      "latest_version": "0.1.97",
+      "latest_version_code": 98,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.96/ecom-admin-0.1.96.apk",
-      "release_notes": "Simpler navigation with Field, Overview, Reports and Manage. Find tools with management search, return to the same shop with Back, and keep report drafts while switching sections. Secondary history, monitoring and report tools are available on demand. Improved phone and tablet layouts in English and Korean.",
-      "published_at": "2026-10-31T14:34:08.108036Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.97/ecom-admin-0.1.97.apk",
+      "release_notes": "Open Field when current incidents need attention, or the all-shop Overview when no active incidents are reported. Recheck status on Home without interrupting ongoing work.",
+      "published_at": "2026-10-31T22:53:19.874755Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
