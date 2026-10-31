@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T23:13:13.437849Z",
+  "generated_at": "2026-10-31T23:01:10.964732Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -107,10 +107,10 @@
     "com.ecom.admin": {
       "testflight": {
         "status": "testing",
-        "version": "0.1.89",
-        "build": "98",
-        "expires_at": "2027-01-26T00:29:08-08:00",
-        "notes": "Return directly to the management landing screen using the Home button in workspace and detail headers, with confirmation for unsaved edits. Browse every shop in Sites link response history using Previous and Next, including larger text layouts."
+        "version": "0.1.96",
+        "build": "105",
+        "expires_at": "2027-01-29T06:31:56-08:00",
+        "notes": "Simpler navigation with Field, Overview, Reports and Manage. Find tools with management search, return to the same shop with Back, and keep report drafts while switching sections. Secondary history, monitoring and report tools are available on demand. Improved phone and tablet layouts in English and Korean."
       },
       "app_store": {
         "status": "awaiting_review"
