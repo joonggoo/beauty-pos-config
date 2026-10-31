@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.94",
-      "latest_version_code": 95,
+      "latest_version": "0.1.95",
+      "latest_version_code": 96,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.94/ecom-admin-0.1.94.apk",
-      "release_notes": "Observe wired ISP and LTE paths from shop-bound Kiosk heartbeats. Register verified path references, distinguish multiple paths and unknown addresses, and stop treating stale observations as current. Observations never replace configured gateway IPs.",
-      "published_at": "2026-10-30T23:45:17.095415Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.95/ecom-admin-0.1.95.apk",
+      "release_notes": "Simplified field response with a six-stage mission flow, evidence-based guidance and independent recovery checks. View previous faults and staff actions for the same device, select registered equipment in reports, and review automatic monitoring records and unlinked shop references. Admin now supports English and Korean with matching mission labels and dates.",
+      "published_at": "2026-10-31T13:57:03.754905Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
