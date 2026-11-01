@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.97",
-      "latest_version_code": 98,
+      "latest_version": "0.1.99",
+      "latest_version_code": 100,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.97/ecom-admin-0.1.97.apk",
-      "release_notes": "Open Field when current incidents need attention, or the all-shop Overview when no active incidents are reported. Recheck status on Home without interrupting ongoing work.",
-      "published_at": "2026-10-31T22:53:19.874755Z"
+      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.99/ecom-admin-0.1.99.apk",
+      "release_notes": "Simpler field missions with one clear next action, compact shop and equipment context, six live progress stages, and easier access to history, evidence and handoff. Improved Korean and English guidance.",
+      "published_at": "2026-11-01T03:59:13.741589Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
