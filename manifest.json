@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.100",
-      "latest_version_code": 101,
+      "latest_version": "0.1.101",
+      "latest_version_code": 102,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.100.apk",
-      "release_notes": "Preserve terminal transaction amounts and first and latest confirmation times. Distinguish provider transaction time from evidence-based estimates, retain information through failed checks, and improve field guidance.",
-      "published_at": "2026-11-09T08:49:19.258366Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.101.apk",
+      "release_notes": "Review unread reports, comments and incidents from the app icon badge. Open the matching work, retain other unread items, refresh newly received data, and keep background service status separate from new-work badges.",
+      "published_at": "2026-11-09T12:24:54.146042Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
