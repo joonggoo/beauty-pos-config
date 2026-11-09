@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T23:01:10.964732Z",
+  "generated_at": "2026-11-09T05:42:58.332286Z",
   "domain": "ecomsupports.com",
   "ssl_pins": [
     {
@@ -39,7 +39,7 @@
     "latest_version_code": 439,
     "force_update": false,
     "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.14/beauty-pos-2.13.14.apk",
-    "release_notes": "미용실 설정에 공급자 전용 항목(선주문 허용일, 재료출고, 세금·정산)이 섞여 보이던 것을 정리했습니다. 이제 그 샵이 실제로 쓰는 서비스의 설정만 나옵니다."
+    "release_notes": "\ubbf8\uc6a9\uc2e4 \uc124\uc815\uc5d0 \uacf5\uae09\uc790 \uc804\uc6a9 \ud56d\ubaa9(\uc120\uc8fc\ubb38 \ud5c8\uc6a9\uc77c, \uc7ac\ub8cc\ucd9c\uace0, \uc138\uae08\u00b7\uc815\uc0b0)\uc774 \uc11e\uc5ec \ubcf4\uc774\ub358 \uac83\uc744 \uc815\ub9ac\ud588\uc2b5\ub2c8\ub2e4. \uc774\uc81c \uadf8 \uc0f5\uc774 \uc2e4\uc81c\ub85c \uc4f0\ub294 \uc11c\ube44\uc2a4\uc758 \uc124\uc815\ub9cc \ub098\uc635\ub2c8\ub2e4."
   },
   "apps": {
     "com.ecom.admin": {
@@ -58,7 +58,7 @@
       "latest_version": "0.1.18",
       "latest_version_code": 19,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/order-v0.1.18/ecom-order-0.1.18.apk",
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.18.apk",
       "release_notes": "Clearer phone and tablet layouts, reliable retry after failed reads, preserved order dates, complete customer names and financial amounts, and corrected invoice balance reporting.",
       "published_at": "2026-11-09T05:36:38.608424Z"
     },
@@ -78,7 +78,7 @@
       "latest_version": "0.1.20",
       "latest_version_code": 21,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/supply-v0.1.20/ecom-supply-0.1.20.apk",
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.20.apk",
       "release_notes": "Clearer phone and tablet layouts, reliable retry after failed reads, preserved order dates, complete customer names and financial amounts, and corrected invoice balance reporting.",
       "published_at": "2026-11-09T05:36:51.650559Z"
     },
