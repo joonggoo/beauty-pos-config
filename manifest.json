@@ -39,18 +39,18 @@
     "latest_version_code": 439,
     "force_update": false,
     "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/v2.13.14/beauty-pos-2.13.14.apk",
-    "release_notes": "\ubbf8\uc6a9\uc2e4 \uc124\uc815\uc5d0 \uacf5\uae09\uc790 \uc804\uc6a9 \ud56d\ubaa9(\uc120\uc8fc\ubb38 \ud5c8\uc6a9\uc77c, \uc7ac\ub8cc\ucd9c\uace0, \uc138\uae08\u00b7\uc815\uc0b0)\uc774 \uc11e\uc5ec \ubcf4\uc774\ub358 \uac83\uc744 \uc815\ub9ac\ud588\uc2b5\ub2c8\ub2e4. \uc774\uc81c \uadf8 \uc0f5\uc774 \uc2e4\uc81c\ub85c \uc4f0\ub294 \uc11c\ube44\uc2a4\uc758 \uc124\uc815\ub9cc \ub098\uc635\ub2c8\ub2e4."
+    "release_notes": "미용실 설정에 공급자 전용 항목(선주문 허용일, 재료출고, 세금·정산)이 섞여 보이던 것을 정리했습니다. 이제 그 샵이 실제로 쓰는 서비스의 설정만 나옵니다."
   },
   "apps": {
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.99",
-      "latest_version_code": 100,
+      "latest_version": "0.1.100",
+      "latest_version_code": 101,
       "force_update": false,
-      "apk_url": "https://github.com/joonggoo/beauty-pos-config/releases/download/admin-v0.1.99/ecom-admin-0.1.99.apk",
-      "release_notes": "Simpler field missions with one clear next action, compact shop and equipment context, six live progress stages, and easier access to history, evidence and handoff. Improved Korean and English guidance.",
-      "published_at": "2026-11-01T03:59:13.741589Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.100.apk",
+      "release_notes": "Preserve terminal transaction amounts and first and latest confirmation times. Distinguish provider transaction time from evidence-based estimates, retain information through failed checks, and improve field guidance.",
+      "published_at": "2026-11-09T08:49:19.258366Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
