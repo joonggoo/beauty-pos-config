@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.106",
-      "latest_version_code": 107,
+      "latest_version": "0.1.107",
+      "latest_version_code": 108,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.106.apk",
-      "release_notes": "See precise numbered map points, open a prospect location directly from details, and call a verified business phone when available. Search filters are preserved unless an explicit location request needs a wider map scope.",
-      "published_at": "2026-11-10T13:34:01.515113Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.107.apk",
+      "release_notes": "Review Android demo activity and private inquiries, and prepare service contracts from verified customer details.",
+      "published_at": "2026-11-10T22:47:31.872430Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
