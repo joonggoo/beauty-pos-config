@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.104",
-      "latest_version_code": 105,
+      "latest_version": "0.1.105",
+      "latest_version_code": 106,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.104.apk",
-      "release_notes": "Keep reports visible with a one-line customer inquiry status. Expand or collapse open inquiries when needed; the full inquiry workspace remains available from Manage.",
-      "published_at": "2026-11-10T09:26:13.927810Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.105.apk",
+      "release_notes": "Manage promotion prospects separately from customers, view eligible prospects on a map, and convert prospects explicitly while monitoring remains off.",
+      "published_at": "2026-11-10T12:45:22.378944Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
