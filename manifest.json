@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.105",
-      "latest_version_code": 106,
+      "latest_version": "0.1.106",
+      "latest_version_code": 107,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.105.apk",
-      "release_notes": "Manage promotion prospects separately from customers, view eligible prospects on a map, and convert prospects explicitly while monitoring remains off.",
-      "published_at": "2026-11-10T12:45:22.378944Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.106.apk",
+      "release_notes": "See precise numbered map points, open a prospect location directly from details, and call a verified business phone when available. Search filters are preserved unless an explicit location request needs a wider map scope.",
+      "published_at": "2026-11-10T13:34:01.515113Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
