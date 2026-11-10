@@ -45,12 +45,12 @@
     "com.ecom.admin": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.108",
-      "latest_version_code": 109,
+      "latest_version": "0.1.109",
+      "latest_version_code": 110,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.108.apk",
-      "release_notes": "Pin work reports and comments, and remove spam consultations from the customer inquiry inbox.",
-      "published_at": "2026-11-10T23:08:08.750928Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-admin-0.1.109.apk",
+      "release_notes": "Pin reports and comments, remove spam inquiries, and keep report details readable on small screens.",
+      "published_at": "2026-11-10T23:12:38.226253Z"
     },
     "com.ecom.order": {
       "min_version": "0.1.0",
