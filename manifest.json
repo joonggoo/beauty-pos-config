@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.21",
-      "latest_version_code": 22,
+      "latest_version": "0.1.23",
+      "latest_version_code": 24,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.21.apk?sha256=83af34327c409b733df470d9eaec82802487dc52e3e5a3008f42546dfad48eb8",
-      "release_notes": "Customer-named aligned invoice rows, full invoice details and Print or Save PDF from unpaid invoices, administrator item confirmation, and selected-client production print previews.",
-      "published_at": "2026-11-17T10:15:30.836594Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.23.apk?sha256=e488c61ca72779ce5724847ea675956b58e732425c088473dcaa7186d62600d9",
+      "release_notes": "Align invoice columns and preserve full amounts on phone, tablet and web. Order invoices show the issuing supplier. Match invoice metrics to client, year and status filters, expose payment months, and isolate same-name ordering clients.",
+      "published_at": "2026-11-17T10:55:20.275460Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.23",
-      "latest_version_code": 24,
+      "latest_version": "0.1.24",
+      "latest_version_code": 25,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.23.apk?sha256=5be90bb684b1254c51dde4a172b1073260a4c636d2fca9932f5d571571b37335",
-      "release_notes": "Customer-named aligned invoice rows, full invoice details and Print or Save PDF from unpaid invoices, administrator item confirmation, and selected-client production print previews.",
-      "published_at": "2026-11-17T10:15:44.244554Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.24.apk?sha256=60149f94eb73cc8fa9f9f635a1e0a073a2f0c13e4c3b39e88ccb8c7236585461",
+      "release_notes": "Align invoice columns and preserve full amounts on phone, tablet and web. Order invoices show the issuing supplier. Match invoice metrics to client, year and status filters, expose payment months, and isolate same-name ordering clients.",
+      "published_at": "2026-11-17T10:55:33.327051Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
