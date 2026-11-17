@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.18",
-      "latest_version_code": 19,
+      "latest_version": "0.1.19",
+      "latest_version_code": 20,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.18.apk",
-      "release_notes": "Clearer phone and tablet layouts, reliable retry after failed reads, preserved order dates, complete customer names and financial amounts, and corrected invoice balance reporting.",
-      "published_at": "2026-11-09T05:36:38.608424Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.19.apk?sha256=acdcf181da37df16e8009753ba455b766e36374c4163388db61f15f010a50ad0",
+      "release_notes": "Reliable client category totals and readable names, shared favorites with category controls, individual order and item confirmation, accurate balance summaries, and invoice printing or PDF saving.",
+      "published_at": "2026-11-17T03:08:18.999283Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.20",
-      "latest_version_code": 21,
+      "latest_version": "0.1.22",
+      "latest_version_code": 23,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.20.apk",
-      "release_notes": "Clearer phone and tablet layouts, reliable retry after failed reads, preserved order dates, complete customer names and financial amounts, and corrected invoice balance reporting.",
-      "published_at": "2026-11-09T05:36:51.650559Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.22.apk?sha256=0fa7432125cf4eee9afa4cd7cb6ad01b0dea96f2265649565d1ee7a489bf8a13",
+      "release_notes": "Reliable client category totals and readable names, shared favorites with category controls, individual order and item confirmation, accurate balance summaries, and invoice printing or PDF saving.",
+      "published_at": "2026-11-17T03:08:31.910347Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
