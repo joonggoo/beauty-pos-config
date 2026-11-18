@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.23",
-      "latest_version_code": 24,
+      "latest_version": "0.1.24",
+      "latest_version_code": 25,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.23.apk?sha256=e488c61ca72779ce5724847ea675956b58e732425c088473dcaa7186d62600d9",
-      "release_notes": "Align invoice columns and preserve full amounts on phone, tablet and web. Order invoices show the issuing supplier. Match invoice metrics to client, year and status filters, expose payment months, and isolate same-name ordering clients.",
-      "published_at": "2026-11-17T10:55:20.275460Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.24.apk?sha256=d7476f5e037605366837dd941c9d6aded4bc69f1fd1553674823e49b2cab393b",
+      "release_notes": "Simpler daily tasks on Home and secondary tools in Details. Supplier-created phone orders support multiple items, late-delivery reasons and duplicate-safe recovery. Optional material tracking preserves inventory access. Update both apps for the new workflow.",
+      "published_at": "2026-11-18T23:07:16.288844Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.24",
-      "latest_version_code": 25,
+      "latest_version": "0.1.25",
+      "latest_version_code": 26,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.24.apk?sha256=60149f94eb73cc8fa9f9f635a1e0a073a2f0c13e4c3b39e88ccb8c7236585461",
-      "release_notes": "Align invoice columns and preserve full amounts on phone, tablet and web. Order invoices show the issuing supplier. Match invoice metrics to client, year and status filters, expose payment months, and isolate same-name ordering clients.",
-      "published_at": "2026-11-17T10:55:33.327051Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.25.apk?sha256=c2a68a8cb54f306c1630909899f78054aec9d54a66b8fe58ef9d76250a287795",
+      "release_notes": "Simpler daily tasks on Home and secondary tools in Details. Supplier-created phone orders support multiple items, late-delivery reasons and duplicate-safe recovery. Optional material tracking preserves inventory access. Update both apps for the new workflow.",
+      "published_at": "2026-11-18T23:07:29.960876Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
