@@ -1,0 +1,30 @@
+name: Attach verified customer keyboard update APKs
+on:
+  push:
+    branches:
+      - release-transfer/customer-keyboard-20261119
+permissions:
+  contents: write
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      GH_TOKEN: ${{ github.token }}
+      SUPPLY_SHA: ed997ef1ffb6da21350380a8ae791e36b25962139fc6c6dd04d25172efc231f0
+      ORDER_SHA: 74c89d116bb92008596d8c3fce9979aeed6c812f0eb33584e7833f5f595e8b60
+    steps:
+      - name: Download, hash and attach the two signed APKs
+        run: |
+          set -euo pipefail
+          for app in supply order; do
+            if [[ "$app" = supply ]]; then version=0.1.29; expected="$SUPPLY_SHA"; else version=0.1.26; expected="$ORDER_SHA"; fi
+            asset="ecom-$app-$version.apk"
+            tag="$app-v$version"
+            curl --fail --silent --show-error --location --retry 2 "https://ecomsupports.com/downloads/apps/$asset?sha256=$expected&release=keyboard-20261119" -o "$asset"
+            printf '%s  %s\n' "$expected" "$asset" | sha256sum --check
+            gh release view "$tag" --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft' | grep -Fx true
+            if ! gh release view "$tag" --repo "$GITHUB_REPOSITORY" --json assets --jq '.assets[].digest' | grep -Fx "sha256:$expected"; then
+              gh release upload "$tag" "$asset" --repo "$GITHUB_REPOSITORY"
+            fi
+          done
