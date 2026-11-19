@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.25",
-      "latest_version_code": 26,
+      "latest_version": "0.1.26",
+      "latest_version_code": 27,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.25.apk?sha256=e5faadcc6d5265967be243fd027239eabf21e453288b348dd12c37708500149f",
-      "release_notes": "Accurate order and invoice drill-through, supplementary order totals, full currency amounts, selected notice comments and shop-date navigation. Supply overdue deliveries now include the complete multi-date list. Update both apps for consistent list and detail information.",
-      "published_at": "2026-11-19T04:16:21.391221Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.26.apk?sha256=74c89d116bb92008596d8c3fce9979aeed6c812f0eb33584e7833f5f595e8b60&release=keyboard-20261119",
+      "release_notes": "Keep product lists, order actions, and forms visible when the keyboard opens. Supply manual orders also gain category filters, customer search, and a fixed review action.",
+      "published_at": "2026-11-19T10:55:44.721231Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.28",
-      "latest_version_code": 29,
+      "latest_version": "0.1.29",
+      "latest_version_code": 30,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.28.apk?sha256=8f4849f7aed02d0dcd9c67e2edf3dbc70375aee9b50ecb176e2831d8e0e59086",
-      "release_notes": "See today’s incoming orders, upcoming production, unpaid invoices, and pending deliveries directly on Supply Home. Badges highlight work that needs attention.",
-      "published_at": "2026-11-19T10:23:03.756844Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.29.apk?sha256=ed997ef1ffb6da21350380a8ae791e36b25962139fc6c6dd04d25172efc231f0&release=keyboard-20261119",
+      "release_notes": "Keep product lists, order actions, and forms visible when the keyboard opens. Supply manual orders also gain category filters, customer search, and a fixed review action.",
+      "published_at": "2026-11-19T10:55:41.093914Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
