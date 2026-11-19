@@ -55,12 +55,12 @@
     "com.ecom.order": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.24",
-      "latest_version_code": 25,
+      "latest_version": "0.1.25",
+      "latest_version_code": 26,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.24.apk?sha256=d7476f5e037605366837dd941c9d6aded4bc69f1fd1553674823e49b2cab393b",
-      "release_notes": "Simpler daily tasks on Home and secondary tools in Details. Supplier-created phone orders support multiple items, late-delivery reasons and duplicate-safe recovery. Optional material tracking preserves inventory access. Update both apps for the new workflow.",
-      "published_at": "2026-11-18T23:07:16.288844Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-order-0.1.25.apk?sha256=e5faadcc6d5265967be243fd027239eabf21e453288b348dd12c37708500149f",
+      "release_notes": "Accurate order and invoice drill-through, supplementary order totals, full currency amounts, selected notice comments and shop-date navigation. Supply overdue deliveries now include the complete multi-date list. Update both apps for consistent list and detail information.",
+      "published_at": "2026-11-19T04:16:21.391221Z"
     },
     "com.ecom.hrm": {
       "min_version": "0.1.0",
@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.25",
-      "latest_version_code": 26,
+      "latest_version": "0.1.27",
+      "latest_version_code": 28,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.25.apk?sha256=c2a68a8cb54f306c1630909899f78054aec9d54a66b8fe58ef9d76250a287795",
-      "release_notes": "Simpler daily tasks on Home and secondary tools in Details. Supplier-created phone orders support multiple items, late-delivery reasons and duplicate-safe recovery. Optional material tracking preserves inventory access. Update both apps for the new workflow.",
-      "published_at": "2026-11-18T23:07:29.960876Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.27.apk?sha256=b690c0e3d9c038f26fd6d1fdd41366c72138da6e64b98481b9113c08a4b251d4",
+      "release_notes": "Accurate order and invoice drill-through, supplementary order totals, full currency amounts, selected notice comments and shop-date navigation. Supply overdue deliveries now include the complete multi-date list. Update both apps for consistent list and detail information.",
+      "published_at": "2026-11-19T04:16:34.405588Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
