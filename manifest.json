@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.29",
-      "latest_version_code": 30,
+      "latest_version": "0.1.30",
+      "latest_version_code": 31,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.29.apk?sha256=ed997ef1ffb6da21350380a8ae791e36b25962139fc6c6dd04d25172efc231f0&release=keyboard-20261119",
-      "release_notes": "Keep product lists, order actions, and forms visible when the keyboard opens. Supply manual orders also gain category filters, customer search, and a fixed review action.",
-      "published_at": "2026-11-19T10:55:41.093914Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.30.apk?sha256=5c2e1209617a8ae1e3603febd290630e5d90f1b425d8952ce68a209961e642d4",
+      "release_notes": "Confirm pending orders directly from the list, order details and By Client. Review and confirm individual items or the whole order, with clearer date-wide scope, permission guidance, failure recovery and refreshed status. Preserves the latest keyboard and manual-order improvements.",
+      "published_at": "2026-11-19T12:21:15.791817Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
