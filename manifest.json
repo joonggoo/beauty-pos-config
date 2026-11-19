@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.27",
-      "latest_version_code": 28,
+      "latest_version": "0.1.28",
+      "latest_version_code": 29,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.27.apk?sha256=b690c0e3d9c038f26fd6d1fdd41366c72138da6e64b98481b9113c08a4b251d4",
-      "release_notes": "Accurate order and invoice drill-through, supplementary order totals, full currency amounts, selected notice comments and shop-date navigation. Supply overdue deliveries now include the complete multi-date list. Update both apps for consistent list and detail information.",
-      "published_at": "2026-11-19T04:16:34.405588Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.28.apk?sha256=8f4849f7aed02d0dcd9c67e2edf3dbc70375aee9b50ecb176e2831d8e0e59086",
+      "release_notes": "See today’s incoming orders, upcoming production, unpaid invoices, and pending deliveries directly on Supply Home. Badges highlight work that needs attention.",
+      "published_at": "2026-11-19T10:23:03.756844Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
