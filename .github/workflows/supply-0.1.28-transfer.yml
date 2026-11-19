@@ -1,0 +1,24 @@
+name: Transfer verified Supply 0.1.28 APK
+on:
+  push:
+    branches:
+      - release-transfer/supply-0.1.28
+permissions:
+  contents: write
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      GH_TOKEN: ${{ github.token }}
+      EXPECTED_SHA: 8f4849f7aed02d0dcd9c67e2edf3dbc70375aee9b50ecb176e2831d8e0e59086
+    steps:
+      - name: Download and verify the signed release asset
+        run: |
+          artifact=ecom-supply-0.1.28.apk
+          curl --fail --silent --show-error --location --max-time 180 --retry 2 "https://ecomsupports.com/downloads/apps/${artifact}?sha256=${EXPECTED_SHA}" -o "$artifact"
+          printf '%s  %s\n' "$EXPECTED_SHA" "$artifact" | sha256sum --check
+      - name: Attach verified APK to the existing draft
+        run: |
+          gh release view supply-v0.1.28 --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft' | grep -Fx true
+          gh release upload supply-v0.1.28 ecom-supply-0.1.28.apk --repo "$GITHUB_REPOSITORY"
