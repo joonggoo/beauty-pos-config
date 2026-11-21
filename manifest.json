@@ -75,12 +75,12 @@
     "com.ecom.supply": {
       "min_version": "0.1.0",
       "min_version_code": 1,
-      "latest_version": "0.1.30",
-      "latest_version_code": 31,
+      "latest_version": "0.1.31",
+      "latest_version_code": 32,
       "force_update": false,
-      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.30.apk?sha256=5c2e1209617a8ae1e3603febd290630e5d90f1b425d8952ce68a209961e642d4",
-      "release_notes": "Confirm pending orders directly from the list, order details and By Client. Review and confirm individual items or the whole order, with clearer date-wide scope, permission guidance, failure recovery and refreshed status. Preserves the latest keyboard and manual-order improvements.",
-      "published_at": "2026-11-19T12:21:15.791817Z"
+      "apk_url": "https://ecomsupports.com/downloads/apps/ecom-supply-0.1.31.apk?sha256=e390931c79438fa3a4597c363d5a893e28193644214fb8b4409508c75f50d8fe",
+      "release_notes": "Show full customer names alongside short names in manual order selection and review, with full-name search. Show Audit Log only for suppliers with an active Workforce service, while preserving existing order and keyboard improvements.",
+      "published_at": "2026-11-21T00:37:28.734539Z"
     },
     "com.ecom.beauty": {
       "min_version": "0.1.0",
